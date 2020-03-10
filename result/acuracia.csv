@@ -1,0 +1,1951 @@
+Cluster,Pergunta,Palavra chave,Score
+27,meu CPF consta invalido,invalido,0.679205013327063
+27,por que meu cpf parece como invalido,parece,0.7186276227881887
+27,que quer dizer cpf invalido,quer,0.6150147888905466
+27,como resolvo cpf invalido,resolvo,0.7186276227881887
+11,o que fazer quando o cpf aparece como invalido,invalido,0.6345874053282968
+27,como regularizo um cpf inválido,regularizo,0.7186276227881887
+27,cliente consegue utilizar o mesmo celular para duas contas diferentes de cpf diferentes ,utilizar,0.6613826043072942
+27,pode cadastrar mesmo numero de celular para mais de uma conta com cpf diferente,pode,0.5006904319615415
+27,pode usar para mais de um cpf o mesmo celular,usar,0.6383792111501166
+88,como retirar restrição em CPf do cliente,retirar,0.6261102579163894
+88,retirar restrição de CPF de cliente,retirar,0.6261102579163894
+27,como faço para retirar restrição de cpf,retirar,0.5675372496980076
+45,COMO REGULARIZAR CLIENTE COM CPF SUSPENSO,suspenso,0.6044739011186155
+45,COMO REGULARIZAR CPF SUSPENSO,suspenso,0.6569683397589388
+45,CPF SUSPENSO,suspenso,0.8570122775354967
+45,CPF SUSPENSO,suspenso,0.8570122775354967
+45,COMO REGULARIZAR PESSOA COM CPF SUSPENSO,suspenso,0.5708318297349679
+88,COMO INCLUIR CPF COMO DOCUMENTO PRINCIPAL,principal,0.5646628773628795
+88,colocar CPF como documento principal,principal,0.5893709181344251
+88,como faço cadastro de CPF como documento principal,principal,0.508835030312029
+27,cpf não consta na base de mARGENS,margens,0.5929647656301394
+88,como cadastro CPF na base de Margens,margens,0.6118809766435402
+88,qual o caminho para fazer cadastro de CPF na base de Margens,margens,0.5436402052326329
+27,cpf não consta na base de dados para consignado,dados,0.4797502725895505
+88,como cadastro CPF na base de dados para consignado,dados,0.49238640294801106
+27,cpf não consta na data de base de consignado,data,0.4910921798140612
+66,como regularizar cpf para resgate de capitalização ,resgate,0.5819479106975866
+66,como regularizar cpf divergente na solicitação de resgate de capitalização ,solicitacao,0.4593186950150583
+66,preciso fazer resgate de capitalização mas aparece erro de cpf divergente,resgate,0.4019306029859722
+27,como proceder quando CNPJ/CPF esta regular no site da receita,site,0.46024429819155177
+27,como proceder quando CNPJ/CPF esta regular no site da receita,site,0.46024429819155177
+27,como proceder quando CNPJ/CPF esta regular no site da receita,site,0.46024429819155177
+27,como proceder quando CPF esta regular no site da receita,site,0.5040596911208373
+69,Quais as regras para Conta Corrente com bloqueio por irregularidade no CPF/CNPJ junto a Receita Federal?,regras,0.3507417171062964
+88,como incluir cpf no cadastro ,incluir,0.6714767173572143
+88,como incluir o cadastro do cpf ,incluir,0.6714767173572143
+88,onde inclui o cpf no cadastro,onde,0.6360693736583519
+88,como incluir cpf no cadastro antigo ,incluir,0.6654761673801547
+27,Consignado com erro de localização de CPF,localizacao,0.6296370822276152
+27,"Erro no consignado ""CPF não localizado na base de dados""",localizado,0.516333355339169
+88,COMO ALTERAR CPF EM UMA CONTA CORRENTE,cpf,0.6092348322092515
+27,COMO atualizo CPF EM UMA CONTA CORRENTE,cpf,0.6955140476003505
+27,Como regularizar CPF/CNPJ na Plataforma de Atendimento quando o Cliente já está com status regular na Receita Federal?,status,0.411794755776836
+88,COMO ALTERAR NUMERO DE CPF NO CADASTRO DA CLIENTE,numero,0.589468801401907
+27,Mensagem de erro CPF não consta na base de margens,mensagem,0.48658304771050365
+88,Como alterar o CPF?,cpf,0.782947155999778
+69,Como desbloquear Conta Corrente com bloqueio por irregularidade no CPF/CNPJ junto a receita federal?,receita,0.367634640038271
+27,tem como alterar a carta de credito do cpf para cnpf,credito,0.6062587384236185
+88,como alterar de Cpf para cnpj?,cpf,0.7040301848766778
+27,como transferir a carta de credito de cpf para cnpj?,transferir,0.5318322456373
+27,como transferir a carta de crédito de cpf para cnpj?,transferir,0.5318322456373
+27,cpf não consta na base de dados,dados,0.5467831028623192
+27,"Como solucionar o erro ""CPF não consta na margem""?",solucionar,0.5341219129259864
+88,cpf do cliente está errado no cadastro,errado,0.6502273137875639
+88,cpf do cliente está errado no cadastro,errado,0.6502273137875639
+27,sócio da empresa pode comprar o carro pelo CPF no consorcio,socio,0.502139825635793
+27,carro ja estava alienando em outro cpf,outro,0.6173002257522997
+88, Como alterar CPF de um cadastro que não pertence ao Cliente?,pertence,0.6205365151155127
+88,cpf em outro cadastro,outro,0.7284546344897646
+27,cpf em outro vinculado,vinculado,0.6720435000266077
+27,CPF DO CLIENTE COM DADOS DE OUTRO?,outro,0.6412828233791422
+88,CLIENTE COM CADASTRO DE OUTO CLIENTE NO CPF,outo,0.6277752834613778
+88,como alterar cpf quando não pertence ao cliente,pertence,0.6998372336207642
+88,Como alterar CPF de um cadastro que não pertence ao Cliente?,pertence,0.6205365151155127
+88,COMO ALTERAR DOCUMENTO PARA CPF PRINCIPAL?,principal,0.5938942147039785
+88,COMO ALTERAR CADASTRO PARA CPF COMO DOCUMENTO PRINCIPAL?,principal,0.5333676281147626
+22,como excluir vinculo do cpf do ex marido da conta da cliente,vinculo,0.532644965638192
+22,como excluir vinculo de cpf,vinculo,0.6799753050564462
+22,como excluir vinculo cpf do ex marido,vinculo,0.5895240471543723
+45,TEM COMO REGULARIZAR O CPF SUSPENSO?,suspenso,0.6569683397589388
+45,CPF SUSPENSO,suspenso,0.8570122775354967
+45,CPF SUSPENSO NA RECEITA,suspenso,0.6742741229852867
+27,COMO CANCELAR O NOME ATRELADO AO CPF DO CLIENTE?,nome,0.5879871273032627
+27,alteração de cpf beneficio de inss,inss,0.6102986865873481
+22,como excluir a divida do CPF,excluir,0.7054611709229519
+27,como tirar a divida do cpf ,tirar,0.6660042836204589
+45,CPF SUSPENSO,suspenso,0.8570122775354967
+69,bloqueio cpf,cpf,0.8570122775354967
+27,como efetuo o vinculo do cartão adicional no cpf do cliente,vinculo,0.553867728606844
+27,cartão de credito vincular cpf no cartão,vincular,0.6265219202052034
+27,como vincular um cpf ao cartao de credito,vincular,0.725196367371238
+22,como excluir restrição do cpf ,restricao,0.6799753050564462
+27,pendencia de cpf no banco,pendencia,0.7053439473836491
+69,cliente com CPF irregular na receita federal,receita,0.6144213487204668
+69,Como desbloquear cartão com bloqueio por irregularidade no CPF junto a receita federal ?,receita,0.4172555502973819
+69,Como desbloquear cartão com bloqueio por irregularidade no CPF junto a receita federal ?,receita,0.4172555502973819
+27,retirar cpf de uma pessoa de um grupo de credito,retirar,0.5323334594649739
+69,Como desbloquear cartão com bloqueio por irregularidade no CPF junto a receita federal ?,receita,0.4172555502973819
+69,Como desbloquear cartão de credito com bloqueio por irregularidade no CPF junto a receita federal ?,receita,0.39942291239025035
+27,COMO FACO PARA TRANSFERIR INVESTIMENTOS DO CPF DE PRIMEIRO PARA SEGUNDO TITULAR ,transferir,0.4375714834688639
+27,limite por cpf de desconto de cheque?,limite,0.6084905282482791
+27,Cartão de débito emitido em CPF divergente do nome,nome,0.5256599453113641
+27,Como confirmo a qual CPF está vinculado um contrato cartão,vinculado,0.6013836205332028
+27,Como identifico a qual CPF está atrelado um contrato cartão ?,identifico,0.606989267739755
+27,consigo transferir investimentos de cpf,transferir,0.5552192074863084
+27,consigo transferir investimentos de cpf,transferir,0.5552192074863084
+27,como transferir investimentos de cpf,transferir,0.6617148428808994
+27,erro: cpf nao consta na base de dados,nao,0.4678329427255283
+83,Quantidade maxima de consórcio por cpf,quantidade,0.6076705600832694
+27,Qual é a quantidade máxima permitida de consórcios por CPF,quantidade,0.5201578290532693
+27,consigo transferir investimentos entre cpfs,transferir,0.5711182840686858
+11,dá para fazer transferencia de investimentos entre cpf,transferencia,0.6226006812911519
+88,cadastro de cpf com ocorrencias especiais,ocorrencias,0.6010833328054234
+88,como resolver cadastro de cpf com ocorrencias especiais,resolver,0.535259223950018
+88,acerto de cpf no cadastro,cpf,0.7521191152150869
+88,como fazer acerto de cpf no cadastro,fazer,0.6903318565302403
+88,Alterar documento principal para CPF no cadastro ,principal,0.5333676281147626
+22,como excluir cpf de documentos adicionais ,excluir,0.5764534695594784
+27,como trocar o cpf de documentos adicionais ?,trocar,0.5746252527440191
+88,como alterar cpf de documento de conversão de cliente ?,documento,0.6065608073197776
+33,CONSULTA CPF PARA EMISSÃO BOLETO,emissao,0.5709978686118213
+27,erro no cpf credito salario inss,salario,0.5593393019304207
+27,c/c conjunta e o cliente quer fazer uma previdencia para cada CPF é possivel?  ,quer,0.4517572497003267
+27,cliente tem conta corrente conjunta e quer fazer uma previdencia para cada CPF,quer,0.4407004646167805
+27,é possível fazer previdencias separadas para cpf de cc conjunta,separadas,0.5017234110080122
+91,como consultar rentabilidade do fundo do cliente por cpf?,rentabilidade,0.5984515304928353
+88,Como regularizar CPF/CNPJ no cadastro quando o Cliente já está com status regular na Receita Federal?,status,0.3854321366479859
+88,como alterar o cpf para principal no cadastro,principal,0.6191133342802941
+69,cliente está com bloqueio de cpf na receita,receita,0.6162014655802537
+69,Quais as regras para Conta Corrente com bloqueio por irregularidade no CPF/CNPJ junto a Receita Federal?,regras,0.3507417171062964
+27,como alterar o nome e cpf no gravame de auto?,nome,0.6040963564698052
+27,como alterar o nome no gravame de auto?,nome,0.6342650434656488
+27,quantos creditos imobiliarios podem ser feitos por CPF,ser,0.42192972350589064
+64,como contratar cartao visa atrelado ao  platinum?,visa,0.5576898252913052
+64,mensalidade cartão  platinum,platinum,0.6989963113641922
+64,valor da mensalidade do  cartão  platinum,valor,0.6193087364222376
+64,desconto na mensalidade cartão  platinum,platinum,0.5870420099305783
+64,desconto na mensalidade do cartão  platinum para funcionários,platinum,0.5162692904207359
+64,valor do desconto na mensalidade do cartão  platinum para funcionários,valor,0.48317099929348206
+64,caractetisticas cartão  platinum,platinum,0.750529966461173
+64,valor da anuidade cartão  platinum,valor,0.602719900888158
+64,descodnto da anuidade cartão  platinum,platinum,0.6382938984244413
+64,qual a anuidade do  platinum mastercard?,platinum,0.6083502728346403
+7,FALAR COM RH,falar,1.0
+7,falar no RH,falar,1.0
+75,contato rh,contato,1.0
+75,atendimento de rh,atendimento,1.0
+27,telefone do rh para colaboradores ativos,telefone,0.607746710322972
+7,falar de rh,falar,1.0
+98,assistencia de rh,assistencia,1.0
+27,normas rh,normas,1.0
+59,previdencia rh,previdencia,1.0
+7,Preciso falar com o RH,preciso,0.7730476678123491
+7,falar com rh,falar,1.0
+59,rh previdencia,previdencia,1.0
+27,como acessar a intranet de rh,intranet,0.7316566188793947
+7,falar com rh,falar,1.0
+85,Como eu abro um chamado no RH?,chamado,0.8052987712781267
+7,falar com rh,falar,1.0
+27,como acessar site do rh externo ,site,0.5945136768629521
+27,ponto rh,ponto,1.0
+7,falar com RH,falar,1.0
+7,Preciso falar com o RH,preciso,0.7730476678123491
+7,preciso falar com rh,preciso,0.7730476678123491
+7,falar com rh,falar,1.0
+7,falar com rh,falar,1.0
+7,como falar com rh,falar,1.0
+7,como falar com rh,falar,1.0
+7,falar com rh,falar,1.0
+7,como falar com rh,falar,1.0
+27,assuntos rh,assuntos,1.0
+7,falar com rh,falar,1.0
+27,ponto rh,ponto,1.0
+44,Como cadastrar e enviar o atestado médico ao RH?,medico,0.5613059714544018
+7,FALAR RH,falar,1.0
+7,FALAR RH,falar,1.0
+47,fale com rh,fale,1.0
+47,fale com o rh,fale,1.0
+47,fale com o rh,fale,1.0
+47,fale com o rh,fale,1.0
+47,fale com o rh,fale,1.0
+47,fale com o rh,fale,1.0
+7,falar com o rh,falar,1.0
+7,falar com o rh,falar,1.0
+27,TEL RH,tel,1.0
+27,FONE DO RH,fone,1.0
+27,rh cancelamento curso,curso,0.9081271810237902
+27,como anexar atestado médico no rh?,medico,0.6107547948270218
+27,rh,,
+27,Chat rh,chat,1.0
+27,acessar rh externo,externo,0.7181634548749365
+27,rh qual tempo de permanencia em cargo/função?,tempo,0.5193551255577874
+27,rh externo,externo,1.0
+85,abrir chamado rh,chamado,0.7396644684075755
+85,abrir chamado rh ferias,ferias,0.7087597970656856
+26,cancelamento de seguro do cartão,seguro,0.6957001577424753
+42,Como abrir de sinistro de seguro de vida?,vida,0.6659758104723568
+21,guia de remessa de seguros,seguros,0.7201620816652035
+21,como gerar guia de remessa de capitalização e seguros,seguros,0.5347595994105833
+97,como cancelo um seguro de vida socio empresa?,vida,0.6471099049313441
+41,contratar seguro de acidentes pessoais ,seguro,0.6079108221980427
+41,como consultar proposta de seguro de acidentes pessoais,seguro,0.5191760554636805
+27,qual o numero da empresa sulamerica seguros,sulamerica,0.5970021583085827
+77,como descubro do que se trata seguro que esta sendo debito em conta corrente?,trata,0.5108150722191793
+27,como saber o seguro que está descontando do cliente,seguro,0.7302928218245307
+27,quero saber qual é o seguro que está sendo descontado da conta corrente,sendo,0.4897035740331465
+27,como reagendar o seguro auto?,seguro,0.880691360543789
+11,preciso fazer o reagendamento do seguro auto,seguro,0.6695240285785812
+46,como cancelar seguro do cheque especial?,seguro,0.6481881279178175
+46,como cancelo  seguro cheque especial?,seguro,0.703930842035263
+27,Qual procedimento para reagendar o seguro auto?,seguro,0.6685054448037709
+27,declaração de unificada seguro morte natural,unificada,0.5517699649818637
+71,valores do seguro vida novembro azul,vida,0.5764524916398592
+11,como fazer cancelamento de seguro de vida,vida,0.6536411797726479
+71,SEGURO DE VIDA  NOVEMBRO AZUL,vida,0.6614307010177335
+67,QUAL OS BENEFICIOS DO SEGURO DE VIDA ?,vida,0.8676719773936328
+26,cancelamento de seguro,seguro,0.9306890373648706
+46,como consultar o seguro  de cheque especial?,seguro,0.619073261529302
+46,aonde consultar seguro  de cheque especial?,seguro,0.6928064197153653
+98,assistencia 24h seguro patrimonial,seguro,0.7543567162286943
+13,como reagendar a vistoria do seguro auto?,vistoria,0.7073239271739845
+71,SEGURO VIDA  NOVEMBRO AZUL,vida,0.6614307010177335
+71,Como funciona a campanha Novembro Azul do Seguro de vida?,vida,0.5007916402968868
+77,como consultar um debito de seguro do que se trata?,trata,0.7319209587462392
+91,como consultar seguro AP do que se trata?,trata,0.8352192001745817
+91,como consultar dados de um seguro AP?,seguro,0.8103774778898769
+19,como cancelar seguro vida?,vida,0.7135091872859823
+27,Como ocorre o cancelamento por inadimplência para seguros de vida?,vida,0.6182385393909917
+74,maximo de valor de seguro de vida ?,vida,0.7741883674235001
+27,cancelamento de seguro cadastrado indevidamente,seguro,0.682759463511326
+26,cancelamento por contratação indevida de seguro ?,seguro,0.7528048434139886
+27,cancelamento de seguro por arrependimento?,seguro,0.8960739854355771
+74,valor maximo de valor segurado para seguro ap ?,valor,0.7057885092460949
+12,seguro não debitado,seguro,0.9614177106621199
+26,Como solicitar cancelamento do seguro de vida?,vida,0.7229417318232279
+12,seguro não debitado em conta corrente,seguro,0.6458941828876364
+77,como verificar o motivo da falta de debito do seguro,verificar,0.5764914623776619
+12,por que o seguro não foi debitado,seguro,0.9614177106621199
+55,caracteristicas de seguro odonto,seguro,0.7221566807623812
+55,Quais as características do Seguro Plano Odonto Especial ?,seguro,0.49462522873418235
+27,Como ocorre a teimosinha do seguro de vida?,vida,0.6706498878596092
+1,cancelamento de seguro residencial ,seguro,0.7380920763759823
+1,cancelamento de seguro residencial para falecido,seguro,0.7789574475028059
+27,o que é temosinha do seguro de vida?,vida,0.9181616662605101
+27,cancelar  seguro residencial para falecido,seguro,0.7845451284667287
+27,CANCELAMENTO DE SEGURO NAO ACATADO ,seguro,0.7869063041426178
+27,Como é efetuado o pagamento do prêmio dos Seguros Proteção Vida?,vida,0.5324163555922311
+85,abrir chamado sobre seguro nao debitado,sobre,0.5507195121273927
+80,cotação de seguro auto,seguro,0.8374942585763964
+74,ver valor de cota de seguro,ver,0.6526286524013093
+19,como cancelar seguro?,seguro,0.9244768972409945
+54,Como solicitar segunda via da proposta de adesão do Seguro de Vida?,vida,0.5002615685311251
+54,onde acho segunda via de proposta de seguro de vida,vida,0.5562843080605883
+19,onde cancelar seguro vida?,vida,0.7908384884038092
+62,seguro não debitou da conta do cliente,seguro,0.7017711267087218
+11,como fazer uma cotacao de seguro,seguro,0.7851029036472913
+10,Como contratar o seguro incendio?,seguro,0.835910302958635
+62,seguro não debitou da conta do cliente,seguro,0.7017711267087218
+80,CANCELAMENTO DE SEGURO AUTO,seguro,0.6962347980213867
+62,seguro não debitou da conta do cliente,seguro,0.7017711267087218
+11,fazer seguro da empresa,seguro,0.7073019485977076
+57,como efetuar uma cotação de seguro,seguro,0.7330998697697748
+8,Como acionar seguro de cartão?,seguro,0.8190426894150061
+2,contratar seguro de vida empresa,vida,0.6415635789131371
+27,material de apoio seguro cartão protegido,seguro,0.6354349103169056
+26,Como solicitar cancelamento do seguro de vida?,vida,0.7229417318232279
+77,como alterar conta de debito de seguro?,seguro,0.5951714175589777
+77,onde altero a conta para debito do seguro,seguro,0.66016176611496
+77,como alterar conta para debito de seguro de carro?,seguro,0.6123438880763629
+11,como fazer alteração na apolice de seguro auto?,seguro,0.5884219663886984
+32,Campanha seguro auto,seguro,0.8194440484848492
+1,cancelamento de seguro residencial,seguro,0.7380920763759823
+1,cancelamento do seguro residencial,seguro,0.7380920763759823
+1,cancelamento do seguro residencial,seguro,0.7380920763759823
+91,Como consultar dados do Seguro Auto ?,seguro,0.7377871471793398
+32,campanha seguro auto,seguro,0.8194440484848492
+91,Como consultar dados do Seguro Auto ?,seguro,0.7377871471793398
+32,campanha de seguro auto para novembro,seguro,0.676844827400629
+2,seguro galpao de empresa,seguro,0.8563865581133603
+84,como realizar endosso de seguro?,seguro,0.7355398402918906
+84,Como realizar endosso em seguro auto?,seguro,0.6590650537669978
+19,como cancelar um seguro auto,seguro,0.6788349572025774
+12,como abrir chamaodo sobre seguro nao debitado ?,sobre,0.5741825575887827
+27,teto de cobertura de seguro,teto,0.8249391416823384
+85,como abrir chamado para seguro ?,seguro,0.7277014724468174
+74,Qual o valor da tabela de Coberturas dos Seguros de Vida?,vida,0.6298982424876194
+83,idade maxima pra contratar seguro vida,vida,0.5820867042718325
+85,qual o prazo para resolução de chamado de produção de seguros?,seguros,0.5308324114847235
+86,qual é a idade máxima aceitavel para fazer seguro de vida,vida,0.6280655832419368
+74,valor de cobertura de seguro vida,vida,0.6485458895884123
+27,seguro cartão basico,seguro,0.8803966622939616
+34,como fazer endosso de seguro de vida,vida,0.6357711052872949
+21,guia de remessa seguros,seguros,0.7201620816652035
+84,como realizar endosso de seguro de vida,vida,0.6728545144476915
+27,cancelamento de seguro que tem agendado no próprio mês?,seguro,0.5638673826561722
+90,Quais os motivos de cancelamento do Seguro?,seguro,0.7578959798415108
+73,Como emitir o bilhete do Seguro Acidentes de Cartões?,seguro,0.5319698263679413
+73,Como emitir o bilhete do Seguro Acidentes de Cartões?,seguro,0.5319698263679413
+27,como cancelar seguro e não cobrar a prestação?,seguro,0.670258355241186
+32,campanha de seguro auto,seguro,0.8194440484848492
+49,cancelar seguro cartao protegido,seguro,0.6109575591245159
+55,como contratar o seguro odonto,seguro,0.7901537736060884
+32,qual a campanha de seguro auto ,seguro,0.8194440484848492
+32,campanha seguro auto?,seguro,0.8194440484848492
+91,Como consultar por qual canal foi contratado o seguro?,seguro,0.6484224020412439
+83,qual idade maxima para seguro vida socio empresa,vida,0.515383401495301
+2,como realizar cotação de seguro vida empresa trienal?,vida,0.5695793757345924
+27,desconto de seguro errado na conta de cliente,seguro,0.6013750742722589
+2,seguro vida empresa trienal,vida,0.7601388388860335
+80,cancelamento renovação seguro auto automatico ,seguro,0.6148016081974148
+68,SEGURO VIAGEM CARTAO VISA,visa,0.7684925970359493
+77,como descobrir debito de seguro errado,seguro,0.6965454050318665
+27,seguro não consta como contratado ,seguro,0.702053800797194
+27,nao consigo identificar o seguro de um cliente,seguro,0.6514258306807245
+80,cancelamento renovação automatica seguro auto,seguro,0.6532141194853694
+34,endosso de seguro de vida como faz?,vida,0.7860845889811127
+13,seguro auto sem vistoria,vistoria,0.8428218585687556
+27,Quem são os beneficiários do Seguro?,seguro,0.9742943901095911
+73,Como emitir o bilhete do Seguro Acidentes de Cartões?,seguro,0.5319698263679413
+27,contratação de seguro ,seguro,0.9648391892536261
+91,como consultar seguro ,seguro,0.9474828131301695
+3,seguro cheque protegido,seguro,0.7423060367492875
+34,como fazer endosso de seguro de vida,vida,0.6357711052872949
+60,como saber os beneficiarios do seguro contratado,seguro,0.5848481942222977
+91,como consultar seguro ,seguro,0.9474828131301695
+5,coberturas seguro generico,seguro,0.77191964118633
+2,regras do seguro empresa,seguro,0.8127487233877555
+83,qual a idade maxima para seguro empresa?,seguro,0.633165866705143
+75,CENTRAL ATENDIMENTO SEGURO CANCELAMENTO ,seguro,0.6666179470319863
+80,CANCELAMENTO SEGURO AUTO,seguro,0.6962347980213867
+75,tefefone de central de seguro,tefefone,0.8074060203089697
+19,telefone para cancelar seguro,telefone,0.8705850420112516
+49,como proceder para cancelar seguro cartao basico?,seguro,0.6397721746246575
+95,envio de seguro,seguro,0.9652970269114529
+21,remessa de seguro,seguro,0.9635094944844556
+21,envio remessa de seguro,seguro,0.7033275794893965
+85,COMO ABRIR CHAMADO DE SEGURO NAO DEBITADO?,seguro,0.5496308649462068
+27,cancelamento seguro zurich minas,zurich,0.6969090600189134
+32,Campanha para seguro auto,seguro,0.8194440484848492
+32,Campanha de seguro auto na black friday,seguro,0.6364344388769033
+19,como cancelar seguro?,seguro,0.9244768972409945
+27,proposta negada de seguro,seguro,0.8106413512965005
+43,seguro fiança para pessoa juridica,seguro,0.6913049863211093
+19,como cancelar seguro auto?,seguro,0.6788349572025774
+19,como cancelar seguro no cartão?,seguro,0.6794726164142811
+26,cancelamento de seguro minas,seguro,0.886398765645814
+27,Como ocorre a teimosinha do seguro de vida?,vida,0.6706498878596092
+19,como cancelar seguro de vida?,vida,0.7135091872859823
+19,Como cancelar o seguro do cartão?,seguro,0.6794726164142811
+34,seguro de vida como fazer endosso,vida,0.6357711052872949
+15,Como cadastrar endosso de beneficiário no Seguro de Vida?,vida,0.583686673065399
+2,Como cancelar o seguro do cartão empresa?,seguro,0.6638220382918251
+34,seguro de vida endosso como fazer?,vida,0.6357711052872949
+26,cancelamento de seguro?,seguro,0.9306890373648706
+24,abertura de sinistro seguro incendio,sinistro,0.651074450974018
+24,abertura de sinistro seguro por falecimento ,sinistro,0.6870016686552207
+4,Como Cancelar Seguro Cartão Protegido ,seguro,0.6109575591245159
+84,como realizar endosso seguro de vida?,vida,0.6728545144476915
+4,como cancelar o seguro cartão protegido do cartão PJ?,seguro,0.787132592382581
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+25,como mudar a data do debito do seguro?,seguro,0.7359913046170298
+19,como cancelar seguro vida empresarial,vida,0.7488022596579645
+5,quais as coberturas do seguro cartao protegido,seguro,0.5806415276429951
+49,cobertura do seguro cartao protegido PJ,seguro,0.6914486838996384
+27,quais as regras do seguro patrimonial?,seguro,0.7008090946826748
+25,como fazer um aditamento da data de debito de um seguro?,seguro,0.6830167117090471
+99,premio seguro credito imobiliario,seguro,0.6733841027656966
+77,Debito indevido de seguro  na conta do cliente ,seguro,0.6560591569342625
+11,fazer seguro de vida zurich,zurich,0.7706615108054939
+99,premio seguro credito imobiliario,seguro,0.6733841027656966
+77,Cliente reclama de debito de seguro  em sua conta,seguro,0.7186707587762992
+78,acionamento de sinistro seguro de vida ,vida,0.7462328561809886
+2,caracteristicas seguro vida sócio empresa,vida,0.6013908844168748
+27,Quais são as modalidades do Seguro?,seguro,0.8532118570425756
+2,consultar seguro vida sócio empresa,vida,0.6429024086184523
+27,seguro auto foi recusado,seguro,0.8867921045211941
+27,caracteristicas SEGURO DENTARIO,seguro,0.7791857971333513
+10,como contratar seguro vida sócio,vida,0.7385443085860259
+27,quero saber sobre SEGURO DENTISTA,sobre,0.5578863967090323
+11,fazer seguro para motos,seguro,0.8460401304855788
+27,qual o procedimento quando o seguro auto é cancelado?,seguro,0.6803928311521981
+2,características do seguro vida sócio,vida,0.6701599165861608
+2,Quando ocorre a renovação do Seguro Vida Sócio Empresa?,vida,0.5273278695276855
+11,o que fazer quando a proposta de seguro auto é cancelada?,seguro,0.6813501993887656
+2,cancelamento de seguro vida empresa,vida,0.6732895123933754
+10,contratar seguro para motocicleta,seguro,0.8706065722063557
+2,contratar seguro vida empresa,vida,0.6415635789131371
+27,caracteristicas seguro auto sulamerica,sulamerica,0.6844902659910199
+27,como simular seguro de carro,simular,0.7395235912869931
+2,cancelar seguro vida empresa,vida,0.6824536841149472
+36,como alterar endereço de apolice seguro patrimonial generico,seguro,0.5163204298445845
+28,como incluir beneficiario em seguro vida,vida,0.674759314447835
+27,caracteristicas seguro empresarial,seguro,0.7368762346771016
+19,como cancelar seguro?,seguro,0.9244768972409945
+34,como fazer endosso de seguro,seguro,0.7059419484390261
+94,alteracao da data de seguro,seguro,0.7087094575538566
+85,como abrir um chamado de seguro não debitado?,seguro,0.6168069655529416
+57,Como efetuar o endosso para o Seguro?,seguro,0.8028862155973107
+27,COBERTURA DO SEGURO VIDA ,vida,0.8372711326370476
+94,alteracao de seguro,seguro,0.965762917214624
+36,alterar seguro,seguro,0.9575871676146074
+36,como alterar beneficiário no seguro de vida,vida,0.6876540884569755
+68,como contratar seguro viagem,viagem,0.7231553242798751
+75,qual o contato da central de seguros?,seguros,0.6774978101675605
+26,cancelamento seguro patrimonial pj,seguro,0.7860175191534183
+27,é necessário encaminhar proposta de seguro assinada na alteração do endosso?,seguro,0.5112916479404805
+19,como cancelar seguro residencial,seguro,0.7517847920539653
+15,Como cadastrar endosso de beneficiário no Seguro de Vida?,vida,0.583686673065399
+19,como cancelar seguro,seguro,0.9244768972409945
+67,beneficios do seguro automoveis cartao platinum ,seguro,0.6288758843043523
+2,contratar seguro vida empresa ,vida,0.6415635789131371
+55,cancelar seguro odonto PJ ,seguro,0.8374942585763964
+27,alteração de beneficiário no seguro,seguro,0.7087094575538566
+64,seguro de carro com cartao platinum ,seguro,0.6571560515529902
+75,qual o contato seguro vida?,vida,0.8859073264827969
+27,Quando o segurado pode indicar um beneficiário nos Seguros Proteção Vida?,vida,0.5256824024088467
+28,alteracao de beneficiario de seguro,seguro,0.7087094575538566
+75,qual o contato central de seguro vida?,vida,0.7050002112625662
+2,como cancela seguro vida empresa?,vida,0.8119391525135545
+26,CANCELAMENTO DE SEGURO,seguro,0.9306890373648706
+15,é necessário a assinatura do cliente na alteração do endosso de seguro de vida?,vida,0.5434212841120125
+19,cancelar seguro cartão de crédito,seguro,0.6932434880258002
+78,sinistro seguro de vida,vida,0.8180579339861694
+2,regras seguro vida empresa ,vida,0.7601388388860335
+33,consulta parcela seguro endosso reducao,seguro,0.6077807447381024
+31,Quais os canais disponíveis para contratar Seguro Cartão?,seguro,0.5857031331680074
+23,hello,hello,1.0
+74,como consultar valor parcela seguro endossado?,valor,0.6466951259860622
+5,quais coberturas o banco cobre no seguro do cartão de credito,seguro,0.5304901205449258
+49,SEGURO CARTAO PROTEGIDO,seguro,0.7242292420670661
+27,como incluir eletro na apolice de seguro,seguro,0.7187027969613445
+27,constestação de seguro,seguro,0.9839735603225973
+49,estorno de seguro cartao protegido debito,seguro,0.6146279884982044
+77,como estornar seguro cartao debito na conta corrente,seguro,0.612471642589415
+15,alteração de endosso no seguro de vida,vida,0.6851618119719364
+15,Como cadastrar endosso de beneficiário no Seguro de Vida?,vida,0.583686673065399
+27,como incluir eletronicos na apolice de seguro,seguro,0.7187027969613445
+25,saber data limite seguro de vida,vida,0.5698204472258621
+15,alteração de endosso do seguro de vida?,vida,0.6851618119719364
+24,abertura de conta para corretora de seguros,seguros,0.6735885109928973
+83,qual a idade maxima para contratação de seguro de vida?,vida,0.5810473068732219
+5,Quais as coberturas do seguro odontológico?,seguro,0.7291129041553667
+30,carencia seguro de vida morte natural,vida,0.5942302786868632
+23,hello,hello,1.0
+30,carencia seguro de vida ,vida,0.8730803508361447
+25,data limite seguro de vida,vida,0.6517496284277114
+27,é permitido abrir conta corrente de corretores e agentes de seguro?,seguro,0.4811379719136089
+27,COMO CONFIGURAR O OUTLOOK,outlook,0.72083723071689
+23,hello,hello,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+27,hola,hola,1.0
+27,holaaaa,holaaaa,1.0
+27,lelião de veiculos,veiculos,0.7255193587825218
+27,configurar email?,email,0.7181634548749365
+27,como configurar meu outlook?,outlook,0.72083723071689
+27,Como criar um email?,email,0.7181634548749365
+18,COMO CONTRATAR SEGURO RESIDENCIAL SOB MEDIDA,sob,0.5869605134188224
+83,qual idade maxima seguro acidentes pessoais?,seguro,0.5398471413120501
+25,como alterar a data do debito do seguro,seguro,0.6382395688993281
+26,cancelamento de seguro,seguro,0.9306890373648706
+4,como cancelar seguro cartão protegido pj?,seguro,0.6109575591245159
+43,como cancelar seguro cartão pessoa juridica?,seguro,0.6192165260831838
+46,seguro cheque especial protegido,seguro,0.6303045449890782
+27,sinsitro seguro residencial,sinsitro,0.8682427557636414
+46,qual a cobertura do seguro cheque especial protegido,seguro,0.5428244145282582
+78,sinistro de seguro residencial,sinistro,0.7319084561609386
+46,quanto cobra o seguro cheque especial,seguro,0.6416964952666924
+26,cancelamento de seguro ,seguro,0.9306890373648706
+80,cancelamento de seguro auto ,seguro,0.6962347980213867
+46,valor cobrado do seguro cheque especial,valor,0.6529938833228567
+26,cancelamento seguro ,seguro,0.9306890373648706
+95,ENVIO DE PROPOSTA DE SEGURO?,seguro,0.6990596874138988
+27,como cancelar seguros do financiamneto BNDES,seguros,0.6334038394458416
+95,PRAZO PARA ENVIO DE SEGURO ?,seguro,0.7713627480181747
+71,SEGURO DE VIDA NOVEMBRO AZUL,vida,0.6614307010177335
+71,Como funciona a campanha Novembro Azul do Seguro de vida?,vida,0.5007916402968868
+27,como calcular seguro auto?,seguro,0.8867921045211941
+46,QUAL A COBERTURA DO SEGURO DE CHEQUE ESPECIAL?,seguro,0.595364211055044
+99,COMO ACIONAR SEGURO DO CREDITO IMOBILIARIO?,seguro,0.6301137341958924
+5,quais são as coberturas do seguro cartão protegido?,seguro,0.5806415276429951
+28,COMO CONSULTAR BENEFICIARIO DO SEGUROS Zurich,zurich,0.6290954126704738
+27,qual a validade da cotação de seguro vida?,vida,0.7328706289419423
+27,QUAL A COBERTURA DO SEGURO DE LIMITE DE CONTA?,seguro,0.6261699693769688
+27,qual a validade da cotação de seguro auto?,validade,0.723645630011778
+2,cancelar seguro vida empresa,vida,0.6824536841149472
+26,cancelamento de seguros,seguros,0.7647274331316571
+44,QUAL O PRAZO PARA ENVIAR UMA PROPOSTA DE SEGURO?,seguro,0.6214600149163481
+27,SEGURO ROUBO E FURTO,seguro,0.733295623615353
+74,solicitação de valor para pagamento de seguro no consorcio,valor,0.572001877708576
+27,antecipação de seguro no emprestimo,seguro,0.7193287025871605
+27,o QUE COMPREENDE A COBERTURA DE ROUBO E FURTO NO SEGURO AUTO,seguro,0.5300313094342886
+61,Como verificar o posicionamento de um sinistro em seguros?,verificar,0.669609378024241
+84,Como realizar o cancelamento do seguro vida,vida,0.7184785537451285
+27,Qual o público alvo do Seguro?,seguro,0.6993969427498307
+38,Como imprimir apólice de seguro residencial ?,seguro,0.6437956390327616
+81,Quais as profissões não podem contratar Seguros?,seguros,0.5765894996568446
+77,debito seguro auto,seguro,0.7660161460850385
+27,atendimento zurich seguros,zurich,0.6641235561492597
+27,qual a validade da cotação de seguro auto?,validade,0.723645630011778
+27,Como autorizar débito automático de Seguros ?,seguros,0.5927958926075251
+27,pode debitar o seguro auto na conta de outra pessoa que não seja o condutor principal,seguro,0.4561841677083216
+77,debito de seguro para terceiro,terceiro,0.8376549222794275
+2,cancelamento seguro vida empresa,vida,0.6732895123933754
+19,cancelar seguro,seguro,0.9244768972409945
+5,quais coberturas do seguro auto,seguro,0.6545229197986231
+84,Como realizar endosso em seguro auto?,seguro,0.6590650537669978
+99,Como acionar seguro credito imobiliario,seguro,0.6301137341958924
+27,DESCONTO SEGURO AUTO,seguro,0.8585178807204508
+9,Cancelamento de seguro cartão protegido,seguro,0.6022705617011311
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+9,cancelamento do seguro cartão protegido,seguro,0.6022705617011311
+2,cancelamento de seguro vida empresa,vida,0.6732895123933754
+2,cancelamento de seguro vida empresa,vida,0.6732895123933754
+30,CARENCIA SEGURO DE VIDA ,vida,0.8730803508361447
+26,cancelamento seguro,seguro,0.9306890373648706
+42,abrir sinistro do seguro acidentes pessoais ,sinistro,0.510688412687405
+8,COMO ACIONAR O SEGURO CARTAO PROTEGIDO?,seguro,0.7015238767663192
+2,cancelamento de seguro vida empresa,vida,0.6732895123933754
+8,Em quais situações posso acionar o Seguro de VidA,vida,0.5922216635033518
+27,como alterar os valores das coberturas de terceiros no seguro auto,valores,0.5651208887797337
+42,Como abrir sinistro do Seguro?,sinistro,0.7230367556036073
+27,como solicitar copia do pedido de cancelamento seguro,solicitar,0.6021480455037174
+4,cancelar seguro protegido,seguro,0.7247420665490532
+27,qual o canal de acionamento do seguro proteção de credito consignado ?,seguro,0.4985322148644523
+38,como imprimir a apolice do seguro previdencia,seguro,0.6309831050462794
+74,é possivel alterar o valor dos danos a terceiros no seguro auto?,valor,0.5222519249862676
+42,Como abrir sinistro do Seguro?,sinistro,0.7230367556036073
+77,seguro cancelado e mesmo assim ocorreu o debito,seguro,0.5700873557943286
+27,QUAL COBERTURA DO SEGURO CARTÃO PROTEGIDO?,seguro,0.6914486838996384
+26,cancelamento do seguro,seguro,0.9306890373648706
+9,cancelamento do seguro cartão protegido,seguro,0.6022705617011311
+41,ABERTURA DE SINISTRO PARA SEGURO ACIDENTES PESSOAIS,sinistro,0.5652444505763072
+28,incluir beneficiario em seguro de vida ,vida,0.674759314447835
+78,Seguro proteção residencial sinistro de instalação eletrica cobre?,sinistro,0.49781953857581823
+78,Seguro residencial cobre sinistro de instalação elétrica,sinistro,0.5317597538525143
+27,estorno seguro auto cancelado,seguro,0.6866102341660574
+90,Quais os motivos de cancelamento do Seguro?,seguro,0.7578959798415108
+13,cliente teve seu seguro cancelado por falta de vistoria,vistoria,0.6129295856029352
+30,carencia seguro de vida ,vida,0.8730803508361447
+27,como o canal de acionamento do seguro proteção consignado total ?,total,0.5377598854358625
+42,Como abrir sinistro do Seguro?,sinistro,0.7230367556036073
+27,qual o canal de acionamento do seguro porteção de credito consignado ?,seguro,0.5425121574733492
+27,quais as coberturad do seguro proteção residencial?,seguro,0.6936091471032492
+27,como faço estorno de seguro cancelado,seguro,0.6170810388593708
+60,inclusão de beneficiarios no seguro de vida,vida,0.7138774530590797
+16,declaraçao de recebimento de seguro de vida,vida,0.7134587858477252
+42,COMO ABRIR SINISTRO SEGURO CARTÃO?,sinistro,0.6530585577344975
+38,como imprimir apolice do seguro,seguro,0.7481913130407195
+38,como imprimir apolice do seguro vida,vida,0.6878651347729178
+27,cliente efetuou cancelamento do seguro e mesmo assim ocorreu varios debitos seguido,varios,0.40512337614830424
+27,cobertura de seguro de vida,vida,0.8372711326370476
+86,idade para seguro de vida e seguro ap,vida,0.7935261487497782
+38,como imprimir apólice do seguro,seguro,0.7481913130407195
+77,seguro foi cancelado e mesmo assim ocorreu o debito na conta da cliente,seguro,0.5145414902735171
+27,como cadastrar seguro funeral?,seguro,0.7205064495150102
+72,comprovante de recebimento de seguro de vida,vida,0.7205468300961336
+97,cancelamento de seguro de vida socio,vida,0.7662835207932147
+27,como autorizar seguros,seguros,0.8240187574620403
+68,SEGURO VIAGEM MASTERCARD BLACK,viagem,0.6403680189278106
+27,estorno de seguro ,seguro,0.9677182810877261
+27,como liberar guia de remeça em seguro?,seguro,0.6207811194228889
+30,CARENCIA MORTE NATURAL SEGURO DE VIDA ,vida,0.5942302786868632
+27,estorno de parcela de seguro debitada incorretamente,seguro,0.5705840897229268
+27,seguro incendio,seguro,0.9785423287349122
+27,estorno de parcela de seguro que debitou apos cancelamento,seguro,0.5216319510117777
+84,como realizar endosso seguro de vida?,vida,0.6728545144476915
+11,como fazer estorno de seguro,seguro,0.7710023466523812
+8,como acionar o seguro incendio,seguro,0.7743155250343121
+77,estorno debito parcela seguro,seguro,0.6623320552662861
+41,idade para seguro de acidentes pessoais,seguro,0.5925048917418501
+68,QUEM TEM DIREITO A SEGURO VIAGEM DA MASTERCARD,viagem,0.6862203439316882
+14,Como cadastrar seguro cartão?,seguro,0.8346019730369084
+60,recebimento de beneficiarios de seguro de vida,vida,0.6956291121543883
+79,Como contratar seguro cartão protegido?,seguro,0.6127275003087994
+27,COBRANÇA indevida não reconhecida seguro de vida ?,vida,0.6064132248900289
+10,como contratar seguro para medico,seguro,0.8424912861651459
+27,o que é seguro renda medicos,seguro,0.7246120129180104
+27,cobertura seguro renda medicos,seguro,0.6468754907065087
+27,Quais as cobertura do seguro auto tokio marine ,tokio,0.5775345456243587
+27,Quais são os benefícios da Assistência 24 Horas do Seguro Auto?,seguro,0.5550170382902393
+8,regras para acionar seguro desemprego,seguro,0.654278781426853
+27,solicitação de estorno de seguro cartão protegido,solicitacao,0.6366378136565809
+6,Reimpressão de via de seguro cartão protegido,via,0.700911978528503
+27,como aciono o seguro desemprego,seguro,0.7193287025871605
+68,como contratar  o seguro viagem pela agencia?,viagem,0.733812884345897
+38,como imprimir 2 via de seguro cartão protegido,via,0.5786077682690297
+38,Como imprimir 2a via de seguro cartão protegido?,via,0.5786077682690297
+1,como fazer cancelamento de seguro residencial?,seguro,0.5963078296136669
+41,como cancelar seguro acidentes pessoais ,seguro,0.6334619051833701
+27,estorno cobrança de seguro?,seguro,0.7420067117471666
+67,beneficios de cartão seguro viagem,viagem,0.7041770752690739
+67,quais beneficios seguro viagem para cartão adicional,viagem,0.5920299767465605
+67,beneficios seguro viagem para cartão adicional,viagem,0.6369779545262965
+27,cobrança ndevida seguro de vida ?,vida,0.7413388270342608
+10,como contratar seguro vida ?,vida,0.7785099443491345
+74,Qual o valor do Seguro do Cartão?,valor,0.8043116274042537
+10,como contratar seguro vida ?,vida,0.7785099443491345
+32,CAMPANHA DE SEGURO DE VEICULO?,veiculo,0.7547478919692381
+27,como imprimir cotação de seguro realizada,seguro,0.7014310993010922
+12,EFETIVAÇÃO DE SEGURO NAO DEBITADO DA CONTA,seguro,0.6424979896572586
+19,como cancelar uma proposta de seguro auto,seguro,0.7143227736998302
+2,simulador seguro vida empresa,vida,0.8119391525135545
+27,alteração de dependente de seguro,seguro,0.7845247795385152
+58,Quais as condições gerais do Seguro Plano Odonto Especial ?,seguro,0.4803559444556239
+67,beneficios seguro viagem para cartão adicional,viagem,0.6369779545262965
+27,COMO CANCELAR UM SEGURO DE PENHOR RURAL,seguro,0.6586572618617232
+96,segunda via endosso de seguro,via,0.6239373930683257
+27,CANCELAMETNO DE SEGURO DE PENHOR RURAL,seguro,0.6306640553793034
+26,Cancelamento de seguro residencia,seguro,0.886398765645814
+1,Cancelamento de seguro residencial,seguro,0.7380920763759823
+12,seguro auto contratado e nao debitado,seguro,0.607022886097101
+27,CANCELAR SEGURO PENHOR RURAL,seguro,0.6586572618617232
+12,seguro auto nao debitado da conta do cliente,seguro,0.504008971213022
+75,seguro auto central de atendimento,seguro,0.6714982457421346
+27,seguro indevido,seguro,0.9775666725063018
+27,seguro indevido cobrado na conta da cliente ,seguro,0.6362781553212048
+27,seguro indevido,seguro,0.9775666725063018
+11,como fazer cancelamento de seguro PJ?,seguro,0.7402357469393104
+27,seguro indevido contestar,seguro,0.7406977127709508
+27,contestar seguro indevido,seguro,0.7406977127709508
+98,assistencia 24hs seguro residencial,seguro,0.7966531681501609
+26,cancelamento de seguro por procuração,seguro,0.8570777054029433
+56,como consultar classe de bonus de seguro auto?,seguro,0.6236739947055837
+56,como consultar classe de bonus de seguro auto?,seguro,0.6236739947055837
+27,SEGUROS AUTOMOVEIS LIBERTY SEGUROS,seguros,0.659662179318594
+27,cancelamento de seguro penhor rural ,seguro,0.6549355626989448
+43,como cancelar o seguro de vida pessoa juridica?,vida,0.6278519796315205
+28,como alterar o beneficiario do seguro de vida,vida,0.6876540884569755
+27,FAZEMOS SEGURO AUTO TAXISTA,taxista,0.6725954765217009
+54,como solicitar segunda via de apólice de seguro?,via,0.5405069226368658
+27,CONTRATACAO DE SEGURO,seguro,0.9648391892536261
+10,como contratar seguro de cartão ,seguro,0.7472227365933027
+27,FAZEMOS SEGURO PARA TAXISTA,taxista,0.7109620254829657
+10,COMO CONTRATAR SEGURO DE VIDA,vida,0.7785099443491345
+84,como realizar o cancelamento do seguro ?,seguro,0.7963770915611148
+36,como alterar endereço de seguro?,seguro,0.7799340379693965
+43,como cancelar o seguro de vida pessoa juridica?,vida,0.6278519796315205
+43,como cancelar o seguro de vida pessoa juridica?,vida,0.6278519796315205
+38,IMPRIMIR APOLICE SEGURO EMPRESA,seguro,0.6335238420763611
+84,como realizar endosso de seguro patrimonial pj ?,seguro,0.5996812034595559
+38,IMPRIMIR APOLICE SEGURO PJ,seguro,0.7481913130407195
+30,QUAL A CARENCIA PARA ACIONAMENTO DE SINISTRO DE SEGURO RESIDENCIAL,sinistro,0.5935841244543042
+5,Quais as carências do Seguro?,seguro,0.8532118570425756
+27,impressão da apólice de seguro,seguro,0.8422048775851408
+98,assistencia pet seguro residencial ,seguro,0.7082901731552865
+36,como alterar endereço de seguro patrimonial pj ?,seguro,0.660846829504647
+84,como realizar endosso de seguro patrimonial pj ?,seguro,0.5996812034595559
+43,como cancelar o seguro de vida pessoa juridica?,vida,0.6278519796315205
+80,CANCELAMENTO DE SEGURO AUTO,seguro,0.6962347980213867
+31,Quais os canais disponíveis para contratar Seguro Cartão?,seguro,0.5857031331680074
+27,seguro para estabelecimento comercial,seguro,0.701371924765039
+27,outubro rosa seguro de vida,vida,0.6705756051742149
+78,SEGURO AUTO KM DE SINISTRO,sinistro,0.7906269748431226
+27,campanha seguro outubro rosa,seguro,0.6208100791993633
+38,IMPRIMIR APOLICE SEGURO EMPRESARIAL,seguro,0.6052101440754946
+56,bonus de seguro,seguro,0.9735837995632133
+24,como retirar o seguro do cartão basico na abertura da conta ?,seguro,0.5460257711746973
+65,COMO FUNCIONA A TRANSFERÊNCIA DE BÔNUS DE SEGURO AUTO ?,transferencia,0.6015770295648263
+38,IMPRIMIR APOLICE SEGURO EMPRESA,seguro,0.6335238420763611
+27,Qual o limite de quilometragem de guincho no Seguro Auto?,seguro,0.6314316185874761
+15,fazer endosso de seguro patrimonial? ,seguro,0.6131721946146478
+11,como fazer alteração de seguro patrimonial ? ,seguro,0.6204731999265248
+36,como alterar seguro patrimonial ? ,seguro,0.7076376279652741
+77,debito seguro auto nao efetivado,seguro,0.6783414123856065
+27,telefone allianz seguro auto,telefone,0.6864781065455058
+6,SEGUNDA VIA DA APOLICE DE SEGURO DE AUTO ,via,0.5817440382386809
+98,seguro residencial assistencia pet,seguro,0.7082901731552865
+56,após vencimento do seguro como utilziar o bonus?,vencimento,0.5669299146697069
+65,quero saber como funciona o seguro de vida pj trienal,vida,0.5405617148760887
+68,Como cadastrar o seguro viagem?,viagem,0.7589622130793555
+27,seguro auto nao efetivado,seguro,0.7532624284191519
+71,Como funciona a campanha Novembro Azul do Seguro de vida?,vida,0.5007916402968868
+27,telefone da Liberty Seguros,telefone,0.6524846623770444
+41,como cancelar seguro acidentes pessoais,seguro,0.6334619051833701
+27,colocar seguro para pagar em boleto,seguro,0.59479349642983
+77,debito de seguro auto nao efetivado,seguro,0.6783414123856065
+26,cancelamento de seguro,seguro,0.9306890373648706
+77,debito de seguro auto nao efetivada,seguro,0.7223791645768761
+12,seguro auto nao debitado,seguro,0.6344214804109967
+27,colocar seguro que é debitado em conta para pagar em boleto,seguro,0.5213942155521218
+22,como excluir o dependente do seguro de vida,vida,0.6887489703382542
+98,assistencia seguro residencial,seguro,0.7966531681501609
+99,boleto seguro de credito imobiliario,seguro,0.6285361926734082
+56,quando vence o bonus de renovação do seguro,vence,0.6580771411616348
+91,Como consultar o apolice de seguros patrimonial?,seguros,0.5481636964164769
+56,como sei qual classe de bonus que o cliente tem no seguro auto?,sei,0.5970406603747371
+77,debito seguro auto nao realizado,seguro,0.6898152937923163
+41,cancelamento de proposta de seguro acidentes pessoais,seguro,0.5317470877275396
+99,como gerar boleto do seguro do credito imobiliario,seguro,0.5931702404330313
+2,O que é necessário para a emissão de um seguro de vida?,vida,0.6790960507077551
+84,como realizar endosso seguro empresarial?,seguro,0.6172771720602634
+77,debito seguro auto,seguro,0.7660161460850385
+98,ASSISTENCIA 24 HORAS SEGURO RESIDENCIAL?,seguro,0.6731810346687394
+12,seguro auto nao debitado,seguro,0.6344214804109967
+27,é possivel debitar proposta de seguro auto em conta poupança?,seguro,0.5484066530210299
+12,seguro nao debitado,seguro,0.7065594713510842
+55,como realizar cancelamento do seguro plano odonto?,seguro,0.5816026534389417
+41,Como realizar o endosso do seguro acidentes pessoais?,seguro,0.514624164414277
+27,como cancelar seguros e capitalização para clientes falecidos,seguros,0.5561384912961281
+91,Como consultar por qual canal foi contratado o seguro?,seguro,0.6484224020412439
+27,alteração de valores do seguro de vida,vida,0.7171778936801565
+65,como funciona alteração de valores seguro de vida,vida,0.6019218224342799
+55,como cancelar seguro odonto especial?,seguro,0.672966737744709
+55,como contratar seguro odonto especial?,seguro,0.6476560717239633
+75,Qual o número da central de atendimento da assistência 24 horas do Seguro Patrimonial?,seguro,0.4572214011053746
+77,como cancelar seguro de cartao de debito para cliente falecido,seguro,0.6710375349773751
+24,ABERTURA DE CHAMADO SEGUROS,seguros,0.6442589077446658
+27,como contrata seguro patrimonial,seguro,0.8227131048283999
+27,Seguro Auto para motoristas de aplicativo de celular,seguro,0.5703293517818094
+26,cancelamento de seguro de vida empresarial,vida,0.7405048084668631
+78,aviso de sinistro seguro de vida,vida,0.7843084461433418
+27,alteração de dependentes no seguro de vida,vida,0.78055396640304
+10,contratar seguro de motocicletas,seguro,0.8591023473535001
+33,consulta de seguro de vida,vida,0.8581432948904787
+78,sinistro seguro patrimonial,sinistro,0.7014525020702529
+42,como faço para abrir sinistro de seguro patrimonial empresarial,sinistro,0.5377252996099903
+19,como cancelar seguro patrimonial,seguro,0.7982048325865622
+19,como cancelar um seguro de vida,vida,0.7135091872859823
+27,SEGURO AUTO LIBERTY - CONVENCIONAL,seguro,0.7291789211859042
+27,cartão de crédito foi pago os últimos 4 meses somente fatura de anuidade e seguro ,ultimos,0.4064194902792055
+27,cliente quer o estorno dos gastos com cartão de crédito dos últimos 4 meses somente fatura de anuidade e seguro ,ultimos,0.3775848889072574
+27,cliente quer estorno de valores pagos em fatura somente de anuidade e seguro protegido,valores,0.4214690478227544
+27,cartao de credito sem uso e pago somente fatura de anuidade e seguro protegido,uso,0.44875635570735695
+78,sinistro seguro patrimonial,sinistro,0.7014525020702529
+78,doc para sinistro de seguro ,sinistro,0.8422801035417319
+91,consultar o seguro de vida,vida,0.77944518397904
+35,Qual é o conceito de Seguro?,seguro,0.9766673704905997
+12,seguro auto efetivado e nao debitado,seguro,0.6628503630586003
+77,é possivel contratar um seguro de carro e o debito ocorrer no cartão de credito ?,seguro,0.5182084170692405
+12,como consultar seguro auto ainda nao debitado,seguro,0.6615639648221712
+27,como cancelar seguro sem assinatura eletronica,seguro,0.6971015508008056
+30,carencia seguro vida ,vida,0.8730803508361447
+77,autorizar debito de seguro,seguro,0.8010384955196475
+75,central sul america seguro auto,sul,0.5967553218309438
+10,Como contratar o Seguro?,seguro,0.9471861519057044
+79,contratar seguro cartão protegido,seguro,0.6127275003087994
+3,como cancelar seguro cheque protegido?,seguro,0.6494092794023167
+3,seguro cheque protegido,seguro,0.7423060367492875
+27,simular seguro auto,simular,0.880691360543789
+27,Quais são os seguros obrigatórios na contratação de Crédito Imobiliário?,seguros,0.5758971396488706
+4,seguro cartão protegido,seguro,0.7242292420670661
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+27,Conferir sorteio seguro,sorteio,0.701371924765039
+27,seguro auto pode ser debitaado no cartão de credito ?,ser,0.5773825738827633
+77,seguro auto pode ocorrer o debito no cartão de credito?,seguro,0.598385400345197
+3,como cancelar seguro cheque protegido?,seguro,0.6494092794023167
+3,o que é seguro cheque protegido,seguro,0.7423060367492875
+68,valores de seguro viagem,viagem,0.7996779174819301
+26,CANCELAMENTO de seguro no exterior?,seguro,0.8418469051678253
+75,contato liberty seguros,seguros,0.6448404786553013
+8,Como acionar o seguro cartão protegido?,seguro,0.7015238767663192
+25,como alterar data de vencimento seguro auto,vencimento,0.6376396090989097
+61,sinistro seguros,sinistro,0.7464438570858343
+96,solicitação segunda via de contrato de seguro,via,0.5488943120366823
+5,coberturas seguro auto,seguro,0.7982048325865622
+39,emissao de apolice seguro auto,seguro,0.7397820020722107
+19,como cancelar um seguro ?,seguro,0.9244768972409945
+12,seguro auto nao debitado,seguro,0.6344214804109967
+12,seguro nao debitado,seguro,0.7065594713510842
+2,seguro empresa cotações,seguro,0.8563865581133603
+27,Como cotar o Seguro Proteção Empresarial ?,seguro,0.6945051416188677
+21,REMESSA DE SEGUROS,seguros,0.766141661753086
+11,como fazer cotação de seguro generico?,seguro,0.6510108408186218
+46,cancelamento seguro cheque especial protegido,seguro,0.5745765103184528
+27,Como recalcular cotação do Seguro Proteção Empresarial ,seguro,0.597737103463091
+27,Seguros Zurich telefone,zurich,0.6423938507659949
+52,pagamento do seguro cartão protegido?,seguro,0.684535503277899
+27,como é efetuado o pagamento do seguro cartão?,seguro,0.7395753986026595
+11,como fazer cancelamento do seguro cartão protegido?,seguro,0.5490858854361376
+49,tarifa de seguro cartao ?,tarifa,0.8546869895613439
+27,SEGURO COMPRA PROTEGIDA DO CARTÃO ,seguro,0.6778449796622438
+13,como consultar solicitação de vistoria de seguro auto,vistoria,0.6164469505076327
+13,como consultar vistoria do seguro auto,vistoria,0.7201980063451873
+13,como consultar agendamento de vistoria de seguro auto,vistoria,0.6953284321091469
+13,consultar vistoria de seguro auto,vistoria,0.7201980063451873
+13,como consultar vistoria de seguro,vistoria,0.7956939749336716
+13,como agendar vistoria de seguro autro,vistoria,0.6678892652183526
+41,acionar SEGUROS ACIDENTES PESSOAIS ,seguros,0.5333849061252812
+27,inclusão de dependente no seguro de vida,vida,0.6799833075969636
+41,QUAIS SÃO AS COBERTURAS DO SEGURO ACIDENTES PESSOAIS ,seguro,0.5231885233531868
+27,na contratação de cdc com seguro do veiculo,veiculo,0.6392681930230908
+77,como tirar seguro de debito em conta corrente,tirar,0.6558651885448075
+49,saber seguro cartao protegido,seguro,0.737162236054107
+79,como contratar seguro cartão protegido?,seguro,0.6127275003087994
+27,cdc com seguro do veiculo,veiculo,0.7292429767656822
+27,contratação de cdc com seguro do bem financiado,seguro,0.5541553201835698
+15,como fazer endosso de cobertura no seguros patrimonial?,seguros,0.49830405970162883
+15,Endosso seguro patrimonial ,seguro,0.7235929007857816
+27,como agendar seguro auto,seguro,0.8622398014839114
+15,Como fazer endosso no seguro patrimonial?,seguro,0.6131721946146478
+57,Como efetuar o endosso para o Seguro?,seguro,0.8028862155973107
+27,ALTERAÇÃO DE LOCAL SEGURADO DO SEGURO RESIDÊNCIAL,seguro,0.6296489797104529
+26,cancelamento de seguro de vida,vida,0.7301026424704691
+10,Como contratar seguro patrimonial?,seguro,0.7443372293381405
+34,Como fazer endosso no seguro empresarial?,seguro,0.6509434593620511
+77,debito automatico seguro,seguro,0.810907779824857
+27,Como autorizar débito automático de Seguros ?,seguros,0.5927958926075251
+77,debito automatico de seguro,seguro,0.810907779824857
+27,seguro de vida com albert einsten,vida,0.6763228072309677
+27,Como autorizar débito automático de Seguros ?,seguros,0.5927958926075251
+27,COMO CORRIGIR SEGURO DEBITADO INTEGRALMENTE,seguro,0.6545976802501783
+27,qual o seguro proteção de vida de acidente pessoais ,vida,0.6610986604998573
+27,qual o beneficio de seguro proteção de vida de acidente pessoais,vida,0.5514804486928022
+27,seguro proteção de vida de acidente pessoais ,vida,0.6610986604998573
+27,SEGURO QUE DEBITOUI INTEGRALMENTE,seguro,0.7193287025871605
+27,SEGURO PROTECAO ACIDENTES PREMIADOS,seguro,0.724139344722409
+10,contratar seguro de caminhao,seguro,0.8591023473535001
+10,como contratar seguro de caminhao,seguro,0.8591023473535001
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+27,tel seguro de vida,vida,0.9039341711057018
+19,CANCELAR SEGURO DE VIDA,vida,0.7135091872859823
+27,qual cobertura do seguro cartão pregido?,seguro,0.7753943514634254
+5,como verificar as coberturas do seguro cartão protegido?,verificar,0.6230485439882344
+27,IMPRIMIR APOLICES DE SEGUROS,seguros,0.7520018143548419
+5,como verificar as coberturas do seguro cartão protegido?,verificar,0.6230485439882344
+49,como cancelar seguro de protecao do cartao ?,seguro,0.7187928693974435
+9,cancelamento de seguro cartão protegido,seguro,0.6022705617011311
+1,como realizar o cancelamento seguro residencial?,seguro,0.6641672044579452
+9,cancelamento de seguro cartão protegido,seguro,0.6022705617011311
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+26,cancelamento de seguro?,seguro,0.9306890373648706
+27,renovação automatica de seguro sem autorização,seguro,0.6034233579617193
+11,fazer seguro de moto,seguro,0.831617119211346
+26,cancelamento de seguro de cartão por não reconhecimento,seguro,0.7684476352218552
+10,seguro moto como contratar ?,seguro,0.835910302958635
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+19,como cancelar seguro de vida,vida,0.7135091872859823
+24,abertura de chamado de seguros,seguros,0.6442589077446658
+67,seguro viagem quais beneficios?,viagem,0.6726875714930175
+91,consultar apolice de seguro,seguro,0.7150345332834801
+54,Como solicitar segunda via de apólice do Seguro?,via,0.5405069226368658
+4,Como cancelar o seguro de cartão protegido pela agência?,seguro,0.7337332541833749
+91,como consultar seguro cartao,seguro,0.7482293888028098
+31,Quais os canais para cancelar o seguro de cartão de crédito?,seguro,0.6158724090758799
+90,Quais os motivos de cancelamento do Seguro?,seguro,0.7578959798415108
+10,CONTRATAR SEGURO DE MOTO KAWASAKI,seguro,0.6967279977776757
+11,FAZER SEGURO AUTO PARA MOTOS,seguro,0.7834504932065208
+19,Como cancelar o seguro de cartão de crédito?,seguro,0.6932434880258002
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+10,como contratar seguro de cartão?,seguro,0.7472227365933027
+19,Como cancelar Seguro,seguro,0.9244768972409945
+31,Quais os canais disponíveis para contratar Seguro Cartão?,seguro,0.5857031331680074
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+27,SEGURO AUTO PARA MOTOS,seguro,0.8867921045211941
+36,Como alterar beneficiários do seguro de vida,vida,0.7266974809020827
+19,Como cancelar seguro limite da conta,seguro,0.6959682822750807
+8,quantas vezes o cliente pode acionar o seguro bolsa protegida?,vezes,0.458860103282391
+10,como contratar seguro do cartão?,seguro,0.7472227365933027
+27,como cancelar seguro presamsitas?,seguro,0.9031575360273171
+49,como cancelar o seguro cartao protegido do cartao de credito,seguro,0.6876106115443463
+10,Como contratar o Seguro?,seguro,0.9471861519057044
+79,Como  contratar Seguro Cartão  Protegido,seguro,0.6127275003087994
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+26,CANCELAMENTO DE SEGURO,seguro,0.9306890373648706
+27,FRAUDE DE SEGUROS ,seguros,0.8772573161389785
+27,ESTORNO DE SEGUROS,seguros,0.7860584828294341
+19,CANCELAR UM SEGURO ,seguro,0.9244768972409945
+91,CONSULTAR UMA PROPOSTA DE SEGUROS,seguros,0.6528905523619785
+91,CONSULTAR UMA PROPOSTA DE SEGURO,seguro,0.759098671802625
+27,simular seguro auto,simular,0.880691360543789
+11,como fazer o seguro adquirencia?,seguro,0.8670085758972985
+26,cancelamento de seguro?,seguro,0.9306890373648706
+27,PROPOSTA DE SEGURO DE VIDA EM ANALISE?,vida,0.7849901313600434
+27,SEGURO AUTO FUNCIONARIO TEM DESCONTO,seguro,0.7151951884621403
+12,SEGURO DE VIDA CONTRATADO MAS NAO FOI DEBITADO?,vida,0.614813618215899
+27,como dar entrada no seguro de vida por morte ?,vida,0.5845153533513725
+12,SEGURO DE VIDA CONTRATADO MAS NAO FOI DEBITADO?,vida,0.614813618215899
+8,como acionar o seguro de vida em caso de morte ?,vida,0.6120552908442507
+27,seguro para condominio?,seguro,0.9822356774142978
+15,endosso de seguro ,seguro,0.953428422961447
+28,endosso de seguro beneficiario,seguro,0.7596040358057349
+27,seguro residencial para maior de 80 anos ,seguro,0.6556099017636382
+27,seguro patrimonial para condominio?,seguro,0.8227131048283999
+27,Como ocorre a teimosinha do seguro de vida?,vida,0.6706498878596092
+15,endosso de seguro,seguro,0.953428422961447
+86,limite de idade para seguro de residencia ,seguro,0.6849426631831694
+86,limite de idade para seguro protefao residencial ,seguro,0.657693565372597
+27,fazemos seguro para taxi,taxi,0.7109620254829657
+54,onde imprimir a segunda via de apolice de seguros?,via,0.48317345950377083
+15,Endosso do Seguro,seguro,0.953428422961447
+19,como cancelar seguro funeral?,seguro,0.8517408608041576
+97,pontuação de seguro vida socio ,vida,0.755186107876219
+6,2 via de apolice de seguro,via,0.7432461633549906
+6,2 via de apolice de seguro auto,via,0.6689678889217094
+19,Como cancelar apólice de Seguro Auto?,seguro,0.6670301826264435
+75,seguro tokio marine  central,tokio,0.6301934695583356
+27,quanto tempo demora para chegar a apolice de seguro auto,tempo,0.5061994776784335
+91,como consultar apolice de seguro alto,seguro,0.7474797623885853
+39,Como solicitar apólice do Seguro Auto?,solicitar,0.661273213993755
+54,Como solicitar segunda via de apólice do Seguro?,via,0.5405069226368658
+27,cancelamento de seguro auxilio funeral,seguro,0.6755938033344598
+39,Como solicitar apólice do seguro auto?,solicitar,0.661273213993755
+5,editar coberturas de seguro,seguro,0.8363684262503058
+43,cancelar seguro pessoa fisica,seguro,0.7217362419666769
+27,SOLICITAÇÃO DE ESTORNO SEGURO,solicitacao,0.7475303725946307
+27,SOLICITAÇÃO DE ESTORNO SEGURO CARTÃO,solicitacao,0.6924624267801627
+27,Como alterar dados da ápolice de seguro de vida?,vida,0.6401219989239737
+19,como cancelar o seguro funeral?,seguro,0.8517408608041576
+27,cotação seguro motocicletas,seguro,0.784136879022371
+27,como cancelar seguro auxilio funeral?,seguro,0.679875239120936
+41,seguro acidentes pessoais?,seguro,0.6984690767579399
+26,cancelamento de seguro PJ,seguro,0.9306890373648706
+74,Qual o valor do Seguro do Cartão?,valor,0.8043116274042537
+27,Como cancelar o seguro auxilio funeral?,seguro,0.679875239120936
+27,qual a franquia do seguro patromonial?,seguro,0.7193287025871605
+27,qual as franquias do seguro patriminial empresarial?,seguro,0.6303166903706844
+15,endosso do seguro empresarial,seguro,0.7568820443953251
+15,endosso do seguro patrimonial,seguro,0.7235929007857816
+27,seguro dental para cliente,seguro,0.8744433205290403
+15,endosso do seguro patrimonial,seguro,0.7235929007857816
+15,endosso do seguro empresarial,seguro,0.7568820443953251
+74,endosso do valor do seguro empresarial,valor,0.6197904433276746
+27,como efetivar seguro odontologico,seguro,0.7109620254829657
+55,Qual as características do Seguro Plano Odonto Especial ?,seguro,0.5275237144235781
+27,Como simular seguro genérico empresas,simular,0.6041525147750209
+27,Como cotar o seguro agrícola?,seguro,0.7140976946023292
+86,idade limite seguro vida,vida,0.6540397584153854
+27,assistencias seguro residencial,seguro,0.82715709287303
+60,como alterar beneficiarios do seguro vida ,vida,0.7266974809020827
+58,Quais as condições gerais do Seguro Plano Odonto Especial ?,seguro,0.4803559444556239
+5,Quais as coberturas do Seguro Cartão ?,seguro,0.6542847749747587
+5,Quais as coberturas do Seguro Cartão ?,seguro,0.6542847749747587
+11,Como fazer a cotação de um seguro agrícola?,seguro,0.7009862593890309
+27,Quando é obrigatório o seguro agrícola?,seguro,0.7323085609029091
+18,seguro de acidentes pessoais sob medida,sob,0.5490152711534761
+57,Como efetuar o endosso para o Seguro?,seguro,0.8028862155973107
+27,consignado com desconto por seguro de vida,vida,0.6646236142812514
+8,acionar seguro familiar,seguro,0.7824503054108426
+15,endosso do seguro empresarial,seguro,0.7568820443953251
+27,como cadastrar beneficiário no seguro de vida em grupo,vida,0.6013782483501828
+11,Como fazer a adesão do seguro de vida em grupo?,vida,0.6072185713273968
+27,Declaração inexistência outros seguros,seguros,0.5710283618408813
+74,seguro de vida até que valor de cobertura o cliente pode ter concentração,vida,0.5131818722950697
+10,como contratar seguro odontológico,seguro,0.8500626564457646
+55,Qual as características do Seguro Plano Odonto Especial ?,seguro,0.5275237144235781
+55,Qual a carência do Seguro Plano Odonto Especial?,seguro,0.5295886908806446
+26,cancelamento de seguro ,seguro,0.9306890373648706
+58,Quais as condições gerais do Seguro Plano Odonto Especial ?,seguro,0.4803559444556239
+74,Qual o valor da tabela de Coberturas dos Seguros de Vida?,vida,0.6298982424876194
+27,declaração de inexistente de outros seguros,seguros,0.5861276552882868
+32,campanha seguro auto,seguro,0.8194440484848492
+32,código campanha seguro auto,seguro,0.7398660622371532
+75,central seguro auto,seguro,0.8302014526481247
+50,seguro cartão protegido completo,seguro,0.7800444742031812
+63,como consultar taxa seguro auto,taxa,0.7284930497322543
+32,como consultar código campanha seguro auto,seguro,0.6783250773210818
+5,Quais as coberturas do Seguro?,seguro,0.7357104211330631
+65,Como funciona a promoção Seguro Premiado?,seguro,0.6341392710100228
+27,declaração inexistente de outros seguros,seguros,0.5861276552882868
+27,CARENCIAS SEGURO DE VIDA,vida,0.9102379909396043
+93,quitar seguro de vida,vida,0.8986013004683875
+93,como quitar seguro de vida?,vida,0.8986013004683875
+93,como quitar seguro de vida?,vida,0.8986013004683875
+27,como antecipar parcelas de seguro,seguro,0.7007417203143808
+12,como localizar um seguro debitado em conta pj,seguro,0.6914377671161718
+27,como antecipar parcelas de seguro de vida,vida,0.6731371083964217
+12,como localizar um seguro debitado em conta pj,seguro,0.6914377671161718
+93,seguro de vida pode quitar,vida,0.7335705786460128
+39,COMO SOLICITAR A APOLICE DO SEGURO AUTO?,solicitar,0.661273213993755
+26,cancelamento de seguro patrimonial ,seguro,0.7860175191534183
+11,como fazer cancelamento de seguro a mais de 90 dias,seguro,0.7897425787234763
+3,como cancelar o seguro cheque protegido,seguro,0.6494092794023167
+3,como cancelar o seguro cheque protegido,seguro,0.6494092794023167
+89,como cancelar o seguro cheque empresa,seguro,0.6197402545088105
+27,seguro de auto liberty tem quanto de guincho,seguro,0.5833526526212502
+74,Qual o valor do capital segurado do Seguro?,valor,0.6563669252766616
+27,quanto é o guincho do seguro da liberty,seguro,0.6095598478760951
+27,efetivação de seguro em conta incorreta como cancelar? ,seguro,0.657311581397513
+27,como cancelar um seguro feito errado? ,seguro,0.6651714482511871
+27,seguro de carro a liberty qual a kilometragem ,seguro,0.6591090319309327
+99,seguro habitacional credito imobiliario,seguro,0.6733841027656966
+8,Acionar o seguro de vida  por falecimento?,vida,0.7624377763972042
+68,como contratar seguro de viagem ,viagem,0.7231553242798751
+27,seguro vida premiado garante desconto,vida,0.6064132248900289
+5,Quais os benefícios do Seguro?,seguro,0.7923660224804322
+19,COMO CANCELAR SEGURO VIDA GRUPO PJ,vida,0.8010321820240959
+2,COMO CANCELAR SEGURO VIDA EMPRESA,vida,0.6824536841149472
+42,como abrir sinistro de seguro residencial ?,sinistro,0.624096681310915
+27,Como cancelar proposta de Seguro Auto até 1 dia após a efetivação?,seguro,0.4972781996016945
+27,Como cancelar proposta de seguros AP?,seguros,0.6855037021491839
+33,consulta de seguro sinistro,sinistro,0.7480014947532204
+27,Como verificar seguro?,verificar,0.9716228956980126
+27,Como cancelar proposta deseguro funeral?,proposta,0.6701309688588574
+27,como verificar proposta de seguro?,verificar,0.7357723926029633
+35,Qual é o conceito de Seguro?,seguro,0.9766673704905997
+27,como verificar proposta de seguro?,verificar,0.7357723926029633
+1,CANCELAMENTO DE SEGURO INCENDIO RESIDENCIAL,seguro,0.7607620646836543
+89,cobertura seguro cheque empresa,seguro,0.6169119665420429
+39,Como solicitar apólice do Seguro Auto?,solicitar,0.661273213993755
+54,Como solicitar segunda via de apólice do Seguro?,via,0.5405069226368658
+5,Quais as coberturas do Seguro de Acidentes de Viagens da bandeira Visa?,visa,0.5070130497024421
+41,Como realizar o cancelamento do seguro Acidentes pessoais?,seguro,0.5336702196772023
+73,bilhete de seguro viagem ,viagem,0.8054884276870081
+68,como fazer seguro viagem,viagem,0.7173002082370539
+32,campanha promocional de seguro auto,seguro,0.7697316289341274
+68,como emitir o seguro de viagem contratado pelo cartão de crédito,viagem,0.5453956907663349
+5,quais coberturas do seguro de vida?,vida,0.6690354834303364
+73,como emitir o bilhete de seguro viagem,viagem,0.6366835160066306
+83,cobertura maxima seguro residencial ?,seguro,0.6529700788077517
+61,comoverificar o posição de um sinistro  em seguros ,sinistro,0.6112875936936891
+83,cobertura maxima seguro residencial ?,seguro,0.6529700788077517
+19,como cancelar o seguro ,seguro,0.9244768972409945
+1,cancelamento de seguro residencial,seguro,0.7380920763759823
+10,CONTRATAR SEGURO DE VIDA PARA AUTONOMO,vida,0.8240273880700236
+1,cancelamento de seguro residencial,seguro,0.7380920763759823
+83,qual idade maxima para seguro de vida?,vida,0.6770038583776068
+27,seguro auto franquia facultativa,seguro,0.685877372802398
+19,como cancelar seguro de vida?,vida,0.7135091872859823
+27,cancelmaneto de seguro pra deficiente auditivo/,seguro,0.5189188315537289
+26,cancelamento de seguro,seguro,0.9306890373648706
+1,cancelamento seguro residencial,seguro,0.7380920763759823
+6,2 via de apolice de seguro residencial,via,0.6381542402039755
+1,cancelamento de seguro residencial,seguro,0.7380920763759823
+34,como fazer endosso de seguro,seguro,0.7059419484390261
+27,nao consigo cancelar o seguro residencial,seguro,0.6580770756937753
+58,Quais as condições gerais do Seguro Plano Odonto Especial ?,seguro,0.4803559444556239
+84,como realizar o cancelamento do seguro cartão protegido,seguro,0.6178403182983628
+27,ENTENDER DÉBITO DE SEGURO DE UMA CONTA,seguro,0.7758680529240612
+5,Quais as opções de seguro de vida para sócio?,vida,0.6781329755197787
+77,CONSULTAR DEBITO DE SEGURO NA CONTA,seguro,0.581320533110372
+65,como funciona o seguro viagem,viagem,0.7690004334497712
+10,Contratar seguro vida sócio,vida,0.7385443085860259
+35,Qual é o conceito do Seguro Viagem ?,viagem,0.7996779174819301
+77,DEBITO DE SEGURO REALIZADO NA CONTA?,seguro,0.7464256542334664
+8,como acionar seguro viagem,viagem,0.7394081303084801
+27,CLIENTE ATRASANDO UM MÊS DE SEGURO FICA INATIVO ?,seguro,0.49342365821020534
+91,Como consultar porque não ocorreu o débito automático do seguro do Cliente?,seguro,0.5474385876173116
+42,como abrir sinistro de seguro viagem,viagem,0.6093633267530534
+27,oNDE PEGAR APÓLICE DE SEGURO DE AUTO,seguro,0.6553548936737651
+42,Como abrir sinistro do Seguro?,sinistro,0.7230367556036073
+26,CANCELAMENTO DE SEGURO,seguro,0.9306890373648706
+6,Como pegar segunda via de apólice de seguro auto?,via,0.6076329479721427
+77,SEGURO RESIDENCIAL QUE NÃO OUVE O DEBITO,seguro,0.779116151357549
+39,Como solicitar apólice do Seguro Auto?,solicitar,0.661273213993755
+26,CANCELAMENTO DE SEGURO,seguro,0.9306890373648706
+32,campanha de seguro auto,seguro,0.8194440484848492
+27,Obrigatoriedade de seguro para garantia de veiculo?,veiculo,0.6417202872261937
+27,cp com garantia de veiculo precisa ser com seguro a favor do banco?,veiculo,0.4509821525148929
+28,ALTERACAO BENEFICIARIO SEGURO VIDA,vida,0.6590313160329305
+25,é possivel agendar a data de pagamento de debito do seguro de vida?,vida,0.4934881801398967
+5,Coberturas do seguro patrimonial,seguro,0.6929127182155792
+27,estorno de seguro cartão ,seguro,0.825324318896228
+25,é possivel agendar a data de debito do seguro ?,seguro,0.5563964607020391
+25,é possivel agendar a data de pagamento de seguro ?,seguro,0.5437646839643138
+41,O QUE COBRE O SEGURO ACIDENTES PESSOAIS,seguro,0.656864297031662
+4,como cancelar seguro de cartão protegido,seguro,0.6109575591245159
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+28,como incluir beneficiario no seguro de vida?,vida,0.674759314447835
+98,assistencia seguro residencial,seguro,0.7966531681501609
+68,como contratar seguro viagem na agência,viagem,0.733812884345897
+25,tem como agendar a data de debito de um seguro de vida?,vida,0.6291467475496275
+25,tem como agendar a data de debito do seguro de vida?,vida,0.6291467475496275
+3,como cancelar seguro cheque protegido,seguro,0.6494092794023167
+91,Como consultar a página de Seguros na intranet?,seguros,0.6340507174949794
+25,tem como agendar a  data de debito do seguro de vida,vida,0.6291467475496275
+27,tipos de seguro,tipos,0.9822356774142978
+24,abertura de sinistro Seguro do Cartão Protegido,sinistro,0.6416044959779339
+8,como acionar o seguro viagem ,viagem,0.7394081303084801
+68,Qual o Público Alvo do Seguro Viagem ?,viagem,0.630320911094428
+8,como acionar seguro viagem ,viagem,0.7394081303084801
+8,como acionar seguro viagem,viagem,0.7394081303084801
+41,coberturas do seguro de acidentes pessoais,seguro,0.5813936351648632
+41,quais as coberturas do Seguro Acidentes Pessoais?,seguro,0.5231885233531868
+27,como contrar seguro de vida ,vida,0.9181616662605101
+68,Qual o Público Alvo do Seguro Viagem ?,viagem,0.630320911094428
+65,seguro viagem como funciona,viagem,0.7690004334497712
+68,qual cartao é isento do seguro viagem?,viagem,0.7963909946322563
+78,sinistro seguro auto ,sinistro,0.7906269748431226
+35,Qual é o conceito do Seguro Viagem ?,viagem,0.7996779174819301
+27,km do guincho do seguro auto sulamerica,sulamerica,0.6685054448037709
+27,cobertura seguro auto ,seguro,0.8117733201572344
+35,Qual é o conceito do Seguro Viagem ?,viagem,0.7996779174819301
+11,cliente pode fazer seguro vida empresa e inclui parte de seus funcionarios?,vida,0.46540523324287086
+68,seguro viagem cobeturas,viagem,0.8503607381283573
+5,Quais são as assistências do Seguro?,seguro,0.8233050820100796
+26,cancelamento seguro pj,seguro,0.9306890373648706
+68,qual cartão tem a isenção do seguro viagem,viagem,0.7963909946322563
+2,como fazer seguro vida empresa,vida,0.6372265849112617
+35,Qual é o conceito do Seguro Viagem ?,viagem,0.7996779174819301
+27,como cancelo um seguro?,seguro,0.9796170990347732
+27,como reduzir seguro de vida,vida,0.9181616662605101
+2,contratacao seguro vida empresa,vida,0.6791479571314445
+27,como cancelo um seguro de vida?,vida,0.8986013004683875
+82,Como conseguir apólice de seguro de carro pj?,seguro,0.6913017425157436
+27,cancelamento de renovacao automatica seguro auto,seguro,0.6532141194853694
+54,Como solicitar segunda via de apólice do Seguro?,via,0.5405069226368658
+27,Apólice de seguro automóvel,seguro,0.8422048775851408
+68,como emitir o seguro viagem do cartão mastercard,viagem,0.612836423200166
+27,Proposta de adesão seguro cartão protegido,seguro,0.6530862303404512
+27,Como cancelar proposta de Seguro Auto até 1 dia após a efetivação?,seguro,0.4972781996016945
+54,Como solicitar 2 via proposta de adesão seguro cartão protegido,via,0.5228911393501647
+27,Tipos de seguro residencial,tipos,0.856578844238714
+43,SEGUROS PESSOA JURIDICA,seguros,0.6460470449050446
+68,quais cartões possuem o seguro viagem?,viagem,0.6302398723408434
+68,cartões que possuem o seguro viagem?,viagem,0.6772194500298461
+27,Quando começa a valer a vigência do seguro auto?,vigencia,0.5656198307983423
+13,Vigência do Seguro Auto somente após a vistoria?,vistoria,0.5335048373456488
+13,Quando é necessario realizar a vistoria prévia na contratação do Seguro Auto?,vistoria,0.5432222291271841
+27,qual o telefone das seguradoras de seguro auto,telefone,0.700598206809145
+27,Como imprimir termo ou proposta de adesão DO SEGURO do Cartão ?,termo,0.5760909695187794
+38,como imprimir proposta de seguro cartão protegido,seguro,0.5824669430462915
+27,SulAmerica Seguros,sulamerica,0.8438804922377159
+68,Qual o Público Alvo do Seguro Viagem do cartão?,viagem,0.5999124978144976
+24,como fazer abertura de sinistro do seguro cartao,sinistro,0.6313529448550335
+27,CLIENTE TEM CARÊNCIA NA CONTRATAÇÃO DE SEGUROS?,seguros,0.6082318109300816
+59,como cancelar seguro da previdencia?,seguro,0.8428218585687556
+59,como cancelar seguro da previdencia?,seguro,0.8428218585687556
+59,Como cancelar seguro da previdencia?,seguro,0.8428218585687556
+79,como contratar seguro cartao protegido?,seguro,0.6127275003087994
+10,Como contratar o Seguro?,seguro,0.9471861519057044
+26,cancelamento seguro cartão pf,seguro,0.6957001577424753
+39,Como solicitar apólice do seguro cartão protegido?,solicitar,0.5912138708014082
+27,passo a passo para contratar seguro cartyao protegido?,seguro,0.8243307349819199
+8,qual o procedimento para acionar o seguro para enchentes?,seguro,0.6688428328887874
+42,Como abrir sinistro de seguro,sinistro,0.7230367556036073
+62,seguro auto não debitou,seguro,0.8517408608041576
+18,SEGURO PROTEÇÃO SOB MEDIDA PODE SER CONTRATADO PARA TAXI,taxi,0.43261283163495073
+62,seguro auto nao debitou,seguro,0.7075810842148066
+68,Como solicitar Seguro Viagem Cartão?,viagem,0.6564146736063371
+27,Qual o público alvo do Seguro?,seguro,0.6993969427498307
+62,seguro auto nao debitou,seguro,0.7075810842148066
+26,cancelamento de seguro patrimonial,seguro,0.7860175191534183
+27,cancelamento de seguro empresarial zurick,zurick,0.7603815858555325
+68,Como solicitar Seguro Viagem Cartão?,viagem,0.6564146736063371
+27,cobranca de seguro em conta,seguro,0.8065075846934725
+46,como cancelar seguro cheque especial protegido,seguro,0.5790736123498263
+27,cobranca de seguro vida grupo em conta errada,vida,0.5766315846177692
+27,cobranca de seguro vida grupo em conta errada,vida,0.5766315846177692
+78,sinistro seguro,sinistro,0.9590714134632334
+18,TAXISTA PODE CONTRATAR SEGURO PROTEÇÃO SOB MEDIDA,taxista,0.491579832799759
+68,Como solicitar Seguro Viagem Cartão?,viagem,0.6564146736063371
+85,chamado sobre seguro,sobre,0.7589702213944688
+79,Como contratar seguro cartão protegido?,seguro,0.6127275003087994
+36,como alterar beneficiários no seguro?,seguro,0.7799340379693965
+2,SEGURO VIDA EMPRESA TRIENAL,vida,0.7601388388860335
+43,cancelar seguro pessoa juridica,seguro,0.6642482960306811
+27,o que compreende cobertura de vidros basico em seguro de auto,vidros,0.5468993092112775
+46,Como cancelar o seguro cheque especial?,seguro,0.6481881279178175
+46,Como cancelar o seguro do cheque especial?,seguro,0.6481881279178175
+2,endosso de seguro vida empresa,vida,0.625554762907303
+26,Como solicitar cancelamento do seguro de vida?,vida,0.7229417318232279
+78,sinistro de seguro residencial,sinistro,0.7319084561609386
+27,cancelmaneto seguro cartão,seguro,0.8937594045155862
+26,cancelamento seguro cartão,seguro,0.6957001577424753
+59,como cancelar um seguro que está atrelado a previdencia?,seguro,0.7073239271739845
+59,Como fazer o cancelamento do seguro que é feito junto com a previdencia?,seguro,0.5474922040456673
+59,como cancelar o seguro que é feito junto com a previdencia?,seguro,0.586386228455317
+59,como cancelar o seguro que é feito pela previdencia?,seguro,0.6978900125128107
+68,A COBERTURA DO SEGURO VIAGEM É POR VIAJANTE?,viajante,0.7234212192340033
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+79,como contratar seguro cartao protegido ?,seguro,0.6127275003087994
+27,como saber o calculo por inadimplencia de um seguro residencial,seguro,0.6057116520602306
+49,cancelar seguro cartao protegido,seguro,0.6109575591245159
+3,cancelamento do seguro cheque protegido,seguro,0.6418657899557667
+3,COMO CANCELAR SEGURO CHEQUE PROTEGIDO,seguro,0.6494092794023167
+68,A COBERTURA DO SEGURO VIAGEM É POR VIAJANTE?,viajante,0.7234212192340033
+74,Qual o valor do Seguro do Cartão?,valor,0.8043116274042537
+27,Como ocorre o cancelamento por inadimplência para seguros de vida?,vida,0.6182385393909917
+10,cancelar seguro que acabamos de contratar,seguro,0.8131294595890719
+27,como efetivar a cotação de seguro protecao vida ,vida,0.633417783128189
+27,qual o tipo de seguro comercializado para salas empresas,tipo,0.5086762128895547
+27,como efetivar contratacao de seguro,seguro,0.788447572992219
+19,cancelar seguro ,seguro,0.9244768972409945
+68,COMO CONTRATAR SEGURO VIAGEM?,viagem,0.7231553242798751
+82,como conseguir o numero da apólice de um seguro imobiliário,seguro,0.593151645907363
+27,Como recalcular cotação do Seguro Proteção Empresarial Genérico?,seguro,0.5299836650396822
+25,alterar data de vencimento do seguro,vencimento,0.674384063196125
+18,cliente quer fazer um cancelameto do seguro sob medida,sob,0.5219185754448221
+27,liberação via internet autorizacao de seguro,via,0.5482145599781858
+27,cancelamento de seguro de penhor rural,seguro,0.6549355626989448
+27,seguro auto recusado,seguro,0.8867921045211941
+19,Como cancelar seguro cartão?,seguro,0.6794726164142811
+2,cancelar seguro vida empresa trienal,vida,0.7064624150437047
+68,como contratar seguro de viagem,viagem,0.7231553242798751
+18,cancelar o seguro sob medida,sob,0.6547469860185943
+57,Como efetuar cotação do Seguro Proteção Empresarial Genérico?,seguro,0.4849271194860882
+18,cancelar o seguro sob medida,sob,0.6547469860185943
+25,alterar data de vencimento seguro,vencimento,0.674384063196125
+25,alterar data de vencimento seguro trienal,vencimento,0.563090242088482
+13,vistoria do seguro do carro,vistoria,0.715092295931286
+10,Como contratar o Seguro?,seguro,0.9471861519057044
+42,Como abrir sinistro do seguro imobiliário?,sinistro,0.6355182609895235
+12,seguro de auto nao debitado,seguro,0.6344214804109967
+55,Candelamento seguro ODONTO,seguro,0.7997233859749411
+11,O que fazer quando não debita o seguro auto da conta com saldo?,seguro,0.5848560273896615
+12,seguro nao debitado na conta do cliente,seguro,0.5379774473225098
+27,o banco realiza seguro para contrato de execução de obra ?,seguro,0.4808882425879099
+27,autorizar débito de seguro,seguro,0.8010384955196475
+27,Como consultar se o débito na conta do Cliente refere-se a Seguro?,seguro,0.5768270787692065
+27,como estornar seguro cartão,seguro,0.8865096181775146
+62,nao debitou seguro de auto,seguro,0.7075810842148066
+3,CANCELAMENTO DO SEGURO CHEQUE PROTEGIDO,seguro,0.6418657899557667
+10,como contratar seguro para garantia de um contrato?,seguro,0.6867710530587067
+75,central atendimento liberty seguros,seguros,0.5648368261484089
+41,seguro acidentes pessoais coberturas,seguro,0.5813936351648632
+10,seguro para proteção de contrato como contratar ?,seguro,0.6318511862999365
+2,como cancelar o seguro vida empresa?,vida,0.6824536841149472
+27,como faz para autorizar seguro no internet banking,seguro,0.5480020451137398
+10,Como contratar o Seguro?,seguro,0.9471861519057044
+2,Como realizar o cancelamento do seguro vida empresa?,vida,0.6069722949091686
+68,como contratar seguro viagem,viagem,0.7231553242798751
+77,autorização de debito seguro,seguro,0.8226844176666783
+86,seguro auto até que idade,seguro,0.825716055927327
+86,seguro para veiculo até que idade,veiculo,0.7475303725946307
+27,Quais as categorias de veículos restritas para contratação de Seguro Auto?,veiculos,0.5082214697358634
+77,autorização de debito de seguro,seguro,0.8226844176666783
+27,Cobertura de seguro auto no Peru,seguro,0.7755515671741261
+86,idade para seguro auto,seguro,0.825716055927327
+27,seguro residencial inquilino não pagar o aluguel,seguro,0.5936406052770226
+5,Quais as coberturas do Seguro?,seguro,0.7357104211330631
+46,como cancelar o seguro cheque especial protegido,seguro,0.5790736123498263
+77,debito seguro de vida ,vida,0.7954675534360227
+50,aviso de sinistro seguro cartao completo,sinistro,0.6332462720474028
+77,debito do seguro de vida nao efetuado ,vida,0.6864246273341656
+5,seguro cartão protegido coberturas,seguro,0.6739920463108435
+27,campanha seguro outubro rosa,seguro,0.6208100791993633
+27,impressão seguro consorcio ,seguro,0.733295623615353
+27,perda de aluguel no seguro residencial,seguro,0.6512429822705033
+27,quais são as seguradoras do seguro auto,seguro,0.7934751232979872
+71,Como funciona a campanha Novembro Azul do Seguro de vida?,vida,0.5007916402968868
+27,perda aluguel no seguro residencial,seguro,0.6512429822705033
+27,preciso imprimir proposta de seguro ,seguro,0.6556173063577169
+84,COMO REALIZAR O ENDOSSO DE UM SEGURO ,seguro,0.7355398402918906
+8,como acionar o seguro de vida ?,vida,0.8441951828230074
+41,CARÊNCIA SEGURO ACIDENTES PESSOAIS,seguro,0.6325928839727268
+5,QUAIS AS COBERTURAS DO SEGURO CDC PROTEGIDO MOTO VIDA/EMPREGO,vida,0.5028923313835485
+27,SEGURO PROTEGIDO MOTO VIDA/EMPREGO,vida,0.6582393075734309
+5,Quais são as coberturas de Seguro Auto?,seguro,0.6545229197986231
+75,como entrar em contato com o seguro de vida ?,vida,0.7321701197142573
+77,ALTERAR CONTA CORRENTE PARA DEBITO SEGURO,seguro,0.5842858265549208
+27,ALTERAR CONTA CORRENTE SEGURO AUTOMOVEL,seguro,0.6494021175498343
+75,CENTRAL SEGURO AUTO,seguro,0.8302014526481247
+3,como cancelar seguro cheque protegido?,seguro,0.6494092794023167
+62,NAO DEBITOU O SEGURO AUTO DOP CLIENTE,seguro,0.6366083415104998
+11,O que fazer quando não debita o seguro auto da conta com saldo?,seguro,0.5848560273896615
+34,como fazer endosso veiculo zurich seguros,zurich,0.5561360639971628
+62,nao debitou o seguro do cliente,seguro,0.684485196394492
+27,como contrata o seguro do cartao,seguro,0.8937594045155862
+26,cancelamento de seguro ,seguro,0.9306890373648706
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+2,cancelamento seguro vida empresa,vida,0.6732895123933754
+27,Declaração inexistência outros seguros,seguros,0.5710283618408813
+27,carta verde seguros sul america,verde,0.4905287219860049
+77,autorização de debito seguro auto,seguro,0.7584824668647919
+27,seguro de consorcio,seguro,0.9785423287349122
+65,como funciona carta verde seguros,verde,0.6006456373473392
+57,COMO EFETUAR UM ENDOSSO DE ENDEREÇO DE SEGURO RESIDENCIAL ,seguro,0.583422416912638
+2,Como cancelar seguro vida empresa?,vida,0.6824536841149472
+26,cancelamento de seguro pj ,seguro,0.9306890373648706
+26,cancelamento de seguro,seguro,0.9306890373648706
+19,como cancelar seguro,seguro,0.9244768972409945
+19,como cancelar seguro residencial,seguro,0.7517847920539653
+3,como cancelar o seguro do cheque protegido?,seguro,0.6494092794023167
+25,como alterar data de seguro residencial ,seguro,0.6455338410184768
+25,alteração de data de seguro ,seguro,0.7087094575538566
+25,como alterar data de debito de seguro residencial ,seguro,0.5724726544921113
+27,cancelamento de seguro renovado automaticamente,seguro,0.6633222363179812
+19,Como cancelar apólice de Seguro Auto?,seguro,0.6670301826264435
+26,cancelamento de seguro/,seguro,0.9306890373648706
+27,como cancelar o seguro renovado automaticamente,seguro,0.666500913825757
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+10,Como contratar seguro auto?,seguro,0.7477141567931987
+27,endosso seguro auto tokyo marine,tokyo,0.6473928190068613
+46,como cancelar seguro cheque especial protegido?,seguro,0.5790736123498263
+27,SEGURO RESIDENCIAL É QUAL TAMANHO DO IMOVEL? ,tamanho,0.6611885490884706
+3,CONCELAMENTO SEGURO CHEQUE PROTEGIDO,seguro,0.7832774776804119
+89,COMO CANCELAR O SEGURO CHEQUE EMPRESA,seguro,0.6197402545088105
+27,QUAL O CONCEITO DE TAMANHO DO IMOVEL  DO SEGURO RESIDENCIAL?  ,tamanho,0.5733223120172214
+27,Como ocorre a teimosinha do seguro de vida? ,vida,0.6706498878596092
+89,COMO CANCELAR O SEGURO PROTEGIDO CHEQUE EMPRESA,seguro,0.5485035771412747
+27,como cancelar seguro acidenctes pessoais?,seguro,0.7755515671741261
+68,seguro viagem pela bandeira master,viagem,0.661876829571134
+49,como cancelar seguro cartao protegido,seguro,0.6109575591245159
+12,fiz um seguro para minha cliente e não foi debitado da conta dela,seguro,0.7042222557957541
+89,COMO CANCELAR O SEGURO CHEQUE EMPRESA PROTEGIDO,seguro,0.5485035771412747
+89,COMO CANCELAR O SEGURO CHEQUE EMPRESA,seguro,0.6197402545088105
+89,COMO CANCELAR O SEGURO PROTEGIDO CHEQUE EMPRESA,seguro,0.5485035771412747
+8,como acionar o seguro mastercard,seguro,0.7743155250343121
+3,como cancelar seguro cheque protegido,seguro,0.6494092794023167
+3,como cancelar seguro cheque protegido,seguro,0.6494092794023167
+12,seguro de vida nao debitado,vida,0.6474620065711199
+74,redução valor seguro de vida,vida,0.7741883674235001
+81,Quais as profissões não podem contratar Seguros?,seguros,0.5765894996568446
+27,teimosinha seguro vida,vida,0.8897323500542403
+27,o seguro da minha cliente nao esta debitando ,seguro,0.7424339746962418
+89,COMO CANCELAR O SEGURO PROTEGIDO CHEQUE EMPRESA,seguro,0.5485035771412747
+46,Como realizar o cancelamento do seguro cheque especial protegido?,seguro,0.5027839837311755
+27,teimoninha seguro de vida?,vida,0.9181616662605101
+80,cancelamento de seguro auto,seguro,0.6962347980213867
+5,quais coberturas e assintencias no seguro auto allianz,seguro,0.6021541039541628
+49,como cancelar seguro cartao?,seguro,0.6794726164142811
+27,como incluir o beneficiário do seguro de vida ?,vida,0.674759314447835
+19,Como cancelar seguro empresarial genérico?,seguro,0.6866102341660574
+15,endosso de seguro ,seguro,0.953428422961447
+97,cobertura seguro vida socio empresa,vida,0.6107372937821405
+56,como consultar classe de bonus de seguro auto?,seguro,0.6236739947055837
+27,qual é o seguro para renda protegida?,seguro,0.7109620254829657
+91,Como consultar as condições do seguro renda ?,seguro,0.6569784774461259
+27,como ver as coberturas seguro sulamerica auto ?,ver,0.6305371633764076
+30,prazo de carencia seguro vida ,vida,0.6888779945854016
+8,Quantas vezes pode acionar o seguro de vida?,vida,0.5454598117192455
+74,Qual o valor do capital segurado do Seguro?,valor,0.6563669252766616
+89,Como cancelar o seguro cheque empresa protegido?,seguro,0.5485035771412747
+5,Quais são as coberturas de Seguro Auto?,seguro,0.6545229197986231
+73,Como emitir o bilhete do Seguro Acidentes de Cartões?,seguro,0.5319698263679413
+8,Quantas vezes pode acionar o seguro proteção vida ?,vida,0.5063434776810951
+98,ASSISTENCIA 24 HORAS SEGURO PATRIMONIAL,seguro,0.652915682071556
+77,debito seguro ,seguro,0.95244479068637
+8,procedimento para acionar o seguro ?,seguro,0.7743155250343121
+46,cancelar seguro cheque especial protegido,seguro,0.5790736123498263
+2,COMO CALCULAR SEGURO PATRIMONIAL EMPRESA DE 20.000.000?,seguro,0.722837891221234
+27,quais assistencias do seguro auto allianz?,seguro,0.6341429714222392
+46,cancelar seguro protegido cheque especial,seguro,0.5790736123498263
+27,Como recalcular a cotação do Seguro Proteção Empresarial Genérico?,seguro,0.5299836650396822
+27,Quais são os benefícios da Assistência 24 Horas do Seguro Auto?,seguro,0.5550170382902393
+46,cancelar cheque especial seguro protegido,seguro,0.5790736123498263
+19,como cancelar seguro de vida,vida,0.7135091872859823
+27,como saber qual seguro esta debitando em conta corrente ,seguro,0.6053354016067405
+2,cancelamento de seguro vida empresa,vida,0.6732895123933754
+26,cancelamento seguro patrimonial,seguro,0.7860175191534183
+77,localizar debito seguro ,seguro,0.810907779824857
+36,como alterar os beneficiários da apólice de seguro de vida,vida,0.6401219989239737
+27,cartão de credito seguro para nao correntista ,seguro,0.6910255178499023
+60,SEGURO VIDA  BENEFICIARIOS,vida,0.8759974873167781
+27,cartão de credito seguro para nao correntista ,seguro,0.6910255178499023
+5,Quais as coberturas do Seguro?,seguro,0.7357104211330631
+3,como cancelar o seguro cheque protegido ?,seguro,0.6494092794023167
+27,Caso de receber seguro dependente de menor?,seguro,0.5620126337384617
+27,como cancelar seguro patrimonial feito no mesmo dia,seguro,0.6035068804846754
+24,Abertura sinistro seguro residencial,sinistro,0.6776194346042523
+42,Como abrir sinistro de seguro?,sinistro,0.7230367556036073
+26,cancelamento de seguro,seguro,0.9306890373648706
+78,seguro auto as peças em caso de sinistro não são originais?,sinistro,0.5395912294985702
+15,Alteração endosso do seguro alto?,seguro,0.710483094589533
+15,Endosso do seguro do carro?,seguro,0.7936307772296761
+39,Como solicitar apólice do seguro residencial?,solicitar,0.6302887266237038
+11,Como fazer alteração de titular de um seguro?,titular,0.7307036308338741
+27,seguro para motoristas aplicativos,seguro,0.7193287025871605
+12,cancelamento seguro debitado,seguro,0.7876667346938988
+65,como funciona o seguro ?,seguro,0.9716228956980126
+27,seguro contratado porem não aparece para autorizar,seguro,0.5698449161654123
+27,seguro cancelado antes de 8 meses,seguro,0.6327007776248197
+27,QUAIS SÃO AS ASSISTENCIAS DO SEGURO RESIDENCIAL DOSE DUPLA?,seguro,0.5473940268847031
+57,Como efetuar o endosso para o Seguro?,seguro,0.8028862155973107
+55,Qual as características do Seguro Plano Odonto Especial ?,seguro,0.5275237144235781
+27,incluir beneficiários no seguro de vida já emitido,vida,0.6299352654342355
+10,contratar seguro para celular,seguro,0.835910302958635
+27,serviços do seguro empresarial,servicos,0.7756987126721577
+36,ALTERAR O ENDEREÇO DO SEGURO RESIDENCIAL,seguro,0.6864690182481535
+27,SEGURO DE CLIENTE NAO ESTA DEBITANDO,seguro,0.7424339746962418
+77,Como consultar Debito de Seguro de vida não efetuado?,vida,0.7038964263982534
+62,COMO SABER O PQ NAO DEBITOU O SEGURO DO CLIENTE,seguro,0.5693956857349722
+5,Quais são as assistências do Seguro?,seguro,0.8233050820100796
+27,quanto tempo para estorno de seguro cair na conta,tempo,0.5418113968753671
+27,quanto tempo para cair o seguro na conta,tempo,0.5904481611106761
+27,quando cai o seguro na conta,seguro,0.8637543646861316
+83,idade maxima seguro vida ,vida,0.6770038583776068
+27,teimosinha de seguros,teimosinha,0.8382242691548034
+11,como fazer seguro genérico para pessoa jurídica?,seguro,0.5594896646384936
+26,cancelamento de seguro,seguro,0.9306890373648706
+27,COMO INCLUIR CONJUGE NA APOLICE DO SEGURO,seguro,0.7000986831534365
+65,como funciona o seguro residencial?,seguro,0.7932331882098114
+67,beneficios seguro do cartão,seguro,0.8452973197487701
+67,beneficios do seguro do cartão de crédito,seguro,0.6926794725003861
+11,COMO FAZER SEGURO DE VIDA COM COBERTURA PARA O CONJUGE ,vida,0.7031091554585202
+5,Quais as coberturas do Seguro?,seguro,0.7357104211330631
+27,SEGURO DE VIDA COBERTURA PARA O CONJUGUE ,vida,0.7849901313600434
+27,Prazo para acionamento de seguro,seguro,0.699040453109688
+26,cancelamento de seguro,seguro,0.9306890373648706
+27,seguro patrimonial mudança de endereço,seguro,0.6994854628422651
+57,Como efetuar o endosso para o Seguro?,seguro,0.8028862155973107
+86,ate qual idade para realizar seguro de vida,vida,0.6714677057252162
+83,qual idade maxima para seguro de vida empresa,vida,0.6014091371646385
+74,valor de estorno de seguro,valor,0.7206655881806678
+32,qual campanha esta vigente em seguro auto?,vigente,0.7697316289341274
+27,quando entra o estorno na cotna de seguro cancelado,seguro,0.5725871032944041
+27,quando entra o estonor do seguro,seguro,0.7193287025871605
+26,cancelamento de seguro,seguro,0.9306890373648706
+77,como verificar do que se trata debito de seguro?,verificar,0.6703048254086077
+12,a que se refere um seguro debitado?,seguro,0.801767605657645
+27,indice de qualidade de seguros,seguros,0.6743249898402285
+59,a que se refere a cobrança de seguro previdencia?,seguro,0.6247032292456001
+27,OPCOES SEGURO DE VIDA,vida,0.9102379909396043
+27,DUVIDA PARA ADQUIRIR COPIA DO CERTIFICADO DA APOLICE SEGURO DE VIDA,vida,0.4755497150246922
+26,cancelamento de seguro,seguro,0.9306890373648706
+84,Como realizar a contratação do seguro empresa,seguro,0.5994334425641086
+27,o seguro de auxilio funeral pode ser contratado ate qual idade,ser,0.4474405127854787
+46,como retirar seguros cheque especial protegido ,seguros,0.5919082681719272
+46,como cancelar seguro cheque especial ,seguro,0.6481881279178175
+3,seguro cheque protegido ,seguro,0.7423060367492875
+26,cancelamento de seguros,seguros,0.7647274331316571
+5,quais as coberturas seguro de vida?,vida,0.6690354834303364
+26,cancelamento de seguros,seguros,0.7647274331316571
+26,cancelamento de seguros,seguros,0.7647274331316571
+19,como cancelar o seguro residencial,seguro,0.7517847920539653
+10,Como contratar seguro de vida para terceiros,vida,0.7892801115185801
+5,Coberturas do seguro proteção familiar,seguro,0.6860816836495816
+11,Como fazer a adesão do seguro de vida em grupo?,vida,0.6072185713273968
+27,declaração de inexistencia de outros seguros,seguros,0.5710283618408813
+27,como verificar cobrança de seguro,verificar,0.7204195427381282
+26,seguro de vida cancelamento,vida,0.7301026424704691
+91,como consultar um seguro residencial vinculado ao crédito imobiliário,vinculado,0.5867253758263282
+90,Quais os motivos de cancelamento do Seguro?,seguro,0.7578959798415108
+26,seguro de vida cancelamento,vida,0.7301026424704691
+27,a que se refere a cobranca de seguro,seguro,0.7346278772527564
+26,cancelamento de seguro,seguro,0.9306890373648706
+38,IMPRIMIR APOLICE SEGURO ALTO ,seguro,0.7058791116901365
+27,CANCELAMENTO DE SEGURO RECUSADO PELA SEGURADORA ,seguro,0.6938287871695102
+15,endosso de seguro ,seguro,0.953428422961447
+19,Como cancelar seguro residencial ?,seguro,0.7517847920539653
+34,como fazer endosso de seguro residencial ,seguro,0.5870567622770438
+33,consulta apólice seguro auto?,seguro,0.6933715924728644
+39,Como solicitar apólice do Seguro Auto?,solicitar,0.661273213993755
+10,contratar seguro perda e roubo de cartoes ,seguro,0.5465112858419648
+27,seguro perda e roubo do cartao ,seguro,0.6585272423758569
+59,a que se trata seguro previdencia,trata,0.7469222410690908
+27,numero para ligar para seguro auto,seguro,0.719189020254008
+8,acionar seguro perda e roubo ,seguro,0.6122334923244244
+79,como contratar seguro de cartao de credito ,seguro,0.6563543196334205
+26,cancelamento de seguro,seguro,0.9306890373648706
+49,seguro cartao de credito ,seguro,0.7946665124702814
+19,cancelar seguro,seguro,0.9244768972409945
+19,cancelar seguro,seguro,0.9244768972409945
+49,contratação seguro de cartao ,seguro,0.8132159502206115
+1,alteração de endereço do seguro residencial ,seguro,0.663355993089954
+15,Como cadastrar endosso de beneficiário no Seguro de Vida?,vida,0.583686673065399
+27,eu consigo incluir outdoor no seguro patrimonial pj,seguro,0.5910335363816561
+36,como alterar endereço do seguro residencial ,seguro,0.6864690182481535
+99,o que cobre o seguro do contrato de credito imobiliario?,seguro,0.5566137022300208
+31,Quais os canais disponíveis para contratar Seguro Cartão?,seguro,0.5857031331680074
+71,campanha de seguros novembro azul,seguros,0.5547958265024762
+39,como solicitar seguro patrimonial,solicitar,0.7099772186847334
+13,Vistoria de seguro auto ,vistoria,0.8428218585687556
+71,Quem pode participar da campanha Novembro Azul do Seguro de vida?,vida,0.5495856632674475
+44,quantos dias pode se enviar apolice de seguro ,seguro,0.521594510374474
+68,seguro cartão viagem,viagem,0.7791195418557367
+27,inclusão de outdoor no seguro patrimonial pj,seguro,0.6452349851955803
+27,como vou cancelar um seguro,vou,0.9031575360273171
+26,cancelamento de seguro,seguro,0.9306890373648706
+49,contratação seguro cartao de credito ,seguro,0.6468812232253799
+27,o que cobre no seguro habitacional?,seguro,0.7340336094237414
+26,cancelamento de seguro,seguro,0.9306890373648706
+49,seguro cartao protegido cartão black,seguro,0.6516954085220332
+27,seguro de danos fisicos ao imovel?,seguro,0.6014406549001481
+91,como consultar uma proposta de seguro cancelada,seguro,0.7234143245325281
+49,valores seguros cartao protegido cartão black,valores,0.529590848054632
+27,o que cobre no seguro habitacional?,seguro,0.7340336094237414
+91,como consultar uma proposta de seguro já cancelada,seguro,0.7234143245325281
+27,Regulamento Indicador de Qualidade de Seguros,seguros,0.5590883163911422
+11,consigo fazer seguro para um cliente analfabeto?,seguro,0.6616188289743503
+19,como cancelar seguro vida,vida,0.7135091872859823
+27,como saber quem solicitou o cancelamento de uma proposta de seguro,solicitou,0.6667765712389411
+5,quais são as restrições para seguro de vida,vida,0.8047430244173622
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+81,Quais as profissões não podem contratar Seguros?,seguros,0.5765894996568446
+3,cancelamento de seguro cheque protegido,seguro,0.6418657899557667
+10,restrições para contratar seguro de vida,vida,0.8096799342972121
+27,canal onde foi cancelado o seguro de vida,vida,0.5573774521160922
+12,seguro auto não debitado,seguro,0.7997947568615232
+27,como debitar um seguro auto que esta em atraso?,seguro,0.6943245242454718
+27,seguro auto com parcela em atraso,seguro,0.7108737061281354
+1,Como realizar o cancelamento do seguro residencial?,seguro,0.6641672044579452
+10,Como contratar seguro para não afalbetizado?,seguro,0.8591023473535001
+10,Como contratar seguro para afalbetizado?,seguro,0.8591023473535001
+27,contratação de seguro para não analfabetizado,seguro,0.823287255452723
+27,como localizar seguro de vida,vida,0.8859073264827968
+77,debito de seguro auto não realizado,seguro,0.7767779139195584
+56,bonus renovação seguro,seguro,0.72029673908333
+27,seguro auto parcela não debitada,seguro,0.7108737061281354
+27,cobertura seguro proteção funeral,seguro,0.6277373802136894
+27,como debitar uma parcela de seguro auto?,seguro,0.6758769346614718
+56,como saber classe bonus seguro,seguro,0.6094520560639468
+26,cancelamento de seguro,seguro,0.9306890373648706
+36,como alterar endereço de seguro residencial,seguro,0.6864690182481535
+26,cancelamento de seguro,seguro,0.9306890373648706
+19,como cancelar seguro,seguro,0.9244768972409945
+27,como imprimir boleto de seguro ficha de compensação,seguro,0.5628504967138714
+19,como cancelar seguro de vida?,vida,0.7135091872859823
+12,seguro auto não debitado,seguro,0.7997947568615232
+27,seguro de vida: auxilio funeral familiar,vida,0.5863501712398884
+19,como cancelar seguro de vida?,vida,0.7135091872859823
+41,como imprimir boleto de seguro acidentes pessoais,seguro,0.5695364849922918
+12,seguro auto não debitado,seguro,0.7997947568615232
+41,como imprimir boleto de seguro acidentes pessoais,seguro,0.5695364849922918
+27,seguro de vida. auxilio funeral familiar,vida,0.5863501712398884
+27,seguro residencial para quem mora de aluguel,seguro,0.6728239810216675
+27,seguro residencial para quem mora de aluguel,seguro,0.6728239810216675
+27,seguro residencial para quem mora de aluguel,seguro,0.6728239810216675
+12,seguro debitado e nao cadastrado,seguro,0.7268203934112613
+12,seguro debitado ,seguro,0.9614177106621199
+12,seguro debitado na conta mas nao consta cnpj,seguro,0.510667799629855
+26,cancelamento de seguro de vida,vida,0.7301026424704691
+27,cancelar seguro na conta terceiros,terceiros,0.7708241051540485
+19,cancelar seguro terceiro,terceiro,0.8867921045211941
+13,como reagendar vistoria de seguro de veiculo ? ,vistoria,0.6213818530936926
+19,como cancelar seguro de vida?,vida,0.7135091872859823
+26,cancelamento seguro,seguro,0.9306890373648706
+75,central de atendimento sompo seguros,sompo,0.6458190835033762
+27,senha para acessar apolice do seguro auto,senha,0.6533164017953281
+85,abrir chamado para cancelar seguro de vida?,vida,0.6289862786418087
+19,Como cancelar o Seguro?,seguro,0.9244768972409945
+38,Como imprimir apolice do seguro auto?,seguro,0.6744748752670459
+39,Como solicitar apólice do Seguro Auto?,solicitar,0.661273213993755
+94,ALTERACAO DE ENDEREÇO PARA SEGURO PATRIMONIAL,seguro,0.6401507212745287
+56,Quais as condições da classe de bônus do Seguro Auto?,seguro,0.5276112632335528
+95,envio de exame medico para seguro de vida,vida,0.6433664418329822
+95,seguro de vida envio de documentação,vida,0.7820890117300899
+75,Qual é a Central de Atendimento do seguro viagem?,viagem,0.6349215261838917
+98,Quais as assistencia temos no seguro residencial ? ,seguro,0.6883446737323301
+27,assistencias no seguro residencial,seguro,0.82715709287303
+1,serviços no seguro residencial,servicos,0.8397508410497724
+26,cancelamento de seguro,seguro,0.9306890373648706
+90,Quais os motivos de cancelamento do Seguro?,seguro,0.7578959798415108
+27,cliente com contratacao de seguro empresarial errado,seguro,0.6035686022803687
+4,Como Cancelar Seguro Cartão Protegido por não reconhecimento de contratação ?,seguro,0.6023528376298964
+27,qual é a coertura do seguro por desmoronamento,seguro,0.701371924765039
+5,Quais as coberturas da garantia do Seguro Proteção Residencial?,seguro,0.5781389099492893
+75,central seguro auto para funcinario ,seguro,0.7609289220381068
+71,quail o benefício dos seguros de vida  durante a campanha novembro azul?,vida,0.4506032764165375
+27,seguro protecao residencial cintrata para ata que idade ,seguro,0.5539028887340518
+91,como consultar o meio de contratação de um seguro?,seguro,0.7530064535407476
+91,Como consultar por qual canal foi contratado o seguro?,seguro,0.6484224020412439
+65,COMO FUNCIONA ESSE SEGURO DE CARTAO PROTEGIDO?,seguro,0.7332136005954267
+10,como contratar seguros ,seguros,0.7148554822815377
+77,debito de seguro residencial que não ocorreu,seguro,0.7304856678065862
+49,como cancelar o seguro do cartao,seguro,0.6794726164142811
+74,Qual o valor do Seguro do Cartão?,valor,0.8043116274042537
+50,COMO CONTRATAR SEGURO CARTAO COMPLETO?,seguro,0.7686029969263106
+27,como debitar o seguro na conta de terceiro,terceiro,0.659447329591043
+50,PASSO A PASSO PARA CONTRATAR SEGURO CARTAO COMPLETO,seguro,0.8522436236226664
+49,como cancelar seguro protegido do cartao,seguro,0.6109575591245159
+41,Quais os benefícios do seguro acidentes pessoais?,seguro,0.566809411037715
+41,Qual a proteção do seguro acidentes pessoais?,seguro,0.5778640545100171
+27,Quais são as modalidades do Seguro?,seguro,0.8532118570425756
+5,Quais as coberturas do seguro ap?,seguro,0.7357104211330631
+27,cobertura do seguro do emprestimo consignado,seguro,0.6735235041828419
+50,SEGURO CARTAO PROTEGIDO COMPLETO,seguro,0.7800444742031812
+27,fazemos seguro de taxi,taxi,0.7109620254829657
+39,Como solicitar um seguro,solicitar,0.9643889336966068
+91,como consultar no sistema se o cliente está autorizado a fazer cambio,sistema,0.5889820976382298
+91,como consultar se do cliente está habilitado para fazer cambio,habilitado,0.7101488924343602
+91,como consultar um cambio que o cliente recebeu?,recebeu,0.7533972976693706
+52,como calcular a conversão de uma ordem de pagamento recebida nas operações de cambio,recebida,0.4839155292451307
+21,como consultar remessa de cambio enviada,remessa,0.7062331584889298
+0,fechamento de cambio ,fechamento,0.8789605845798443
+27,qual a aliquota de IOF para operações de cambio,operacoes,0.6344317918463551
+27,cambio fisico na pj,fisico,0.9439709931074011
+14,como operar com cambio pj?,operar,0.9132540297778342
+48,operação de cambio,operacao,0.8801631098453844
+27,operação de cambio como liquidar,operacao,0.7597540600393848
+48,operacao de cambio com garantia de investimento ,operacao,0.6151159172669681
+91,como consultar cambio,consultar,0.8379887233955923
+52,Como proceder quando a Ordem de Pagamento enviada não consta na planilha de Status de cambio?,status,0.45991479226208226
+48,emissão de cambio,emissao,0.920589046456914
+27,Como fazar cambio,fazar,0.9439709931074011
+27,QUAL A TARIFA COBRADA EM OPERAÇOES DE CAMBIO,tarifa,0.5996164350865058
+21,QUAL É A TAXA DO IOF PARA ENVIO DE REMESSA DE CAMBIO,taxa,0.5563707242555321
+40,receber cambio,receber,0.8998576571396256
+27,reemitir cambio ,reemitir,0.9439709931074011
+27,operações de cambio acima de 3000,operacoes,0.7501568088888821
+52,cambio orfem de pagamento,pagamento,0.8051698105204186
+84,realizar operação de cambio,realizar,0.6630003984507327
+52,LOCALIZAR UMA ORDEM DE CAMBIO?,ordem,0.7709265292068099
+52,emitir ordem de pagamento cambio,pagamento,0.6523508284370481
+27,cambio swift,swift,0.929880665134878
+0,fechamento de cambio não regularizado,regularizado,0.8064900266499051
+21,consultar remessa de cambio,remessa,0.7134308962674261
+52,consulta de ordem de pagamento de cambio,pagamento,0.6086917031637997
+27,cambio swift verificar,verificar,0.7320604340171593
+16,remessa de cambio recebimento,remessa,0.6791427275151724
+52,recebimento de ordem de pagamento cambio,recebimento,0.5887515464771583
+95,envio de cambio,envio,0.8865093783945432
+91,swift cambio consultar,swift,0.8096265935806733
+52,consulta de ordem de pagamento de cambio,pagamento,0.6086917031637997
+27,liberação de investimento bloqueado por operação de cambio ,operacao,0.5540886003590536
+27,autorizar cambio,cambio,0.9155478761879774
+27,liberação de investimento para contrato de cambio ,liberacao,0.6068184460385957
+16,recebimento de cambio,recebimento,0.8906342215536202
+27,investimento bloqueado por operação de cambio ,operacao,0.6361604896139429
+48,operacao de cambio naõ regularizada,regularizada,0.7231921563693807
+52,liberação de ordem de pagamento de cambio,pagamento,0.6667488272363283
+27,transferencia de cambio,transferencia,0.929880665134878
+27,como fechar cambio atraves da mesa de cambio?,mesa,0.580228416468717
+53,como reimprimir um contrato de cambio pronto pj?,reimprimir,0.6141952722648046
+53,como reimprimir um contrato de cambio pronto pj?,reimprimir,0.6141952722648046
+52,como fechar ordem de cambio?,ordem,0.7842442016969616
+48,operação de cambio ,operacao,0.8801631098453844
+74,como verificar um valor vindo exterior cambio?,vindo,0.5895882028819108
+91,Como consultar um vlr de cambio vindo do exterior?,vlr,0.5864793555366649
+48,operaçao de cambio,operacao,0.8801631098453844
+48,liquidar uma operacao de cambio,operacao,0.7597540600393848
+48,liquidação de op cambio,liquidacao,0.9132540297778342
+27,recebendo cambio pf,recebendo,0.9439709931074011
+33,consulta cambio,consulta,0.8998576571396256
+63,taxa de cambio,taxa,0.9090129844486822
+63,taxa para transação de cambio ,transacao,0.7490894586346326
+0,fechamento de cambio pf,fechamento,0.8789605845798443
+14,como aumentar o valor para o cliente operar com cambio,valor,0.6068983130852946
+11,Como fazer alteração do limite operacional de cambio do cliente?,operacional,0.5788430230586489
+27,emissao de cambio ,emissao,0.920589046456914
+33,consulta fechamento de cambio,fechamento,0.7013253383466529
+52,como localizar ordem de cambio,ordem,0.7709265292068099
+0,como consultar pedido de fechamento de cambio?,pedido,0.7221239143170479
+0,como consultar solicitação de fechamento de cambio,solicitacao,0.6650428786554216
+27,qUAL É A TARIFA COBRADA EM OPERAÇÕES DE CAMBIO?,tarifa,0.5996164350865058
+27,Tarifa para cambio PJ,tarifa,0.9132540297778342
+52,Tarifa de cambio para ordem de pagamento PJ,tarifa,0.6403226308663466
+95,IOF para envio de cambio,iof,0.7439036697577481
+27,habilitação conta para cambio,habilitacao,0.8363163342918343
+75,fone de central de atendimento cambio funcionario,funcionario,0.5520811484272331
+21,REMESSA DE CAMBIO PONTUAL,remessa,0.8038061539815305
+14,COMO CADASTRAR CAMBIO?,cambio,0.8998576571396256
+11,qual o limite para o cliente Select fazer um cambio?,select,0.6748480912071467
+74,como realizar a devolução do valor do cambio em sua origem ,valor,0.5798625183932223
+84,como realizar cambio pelo aplicativo,realizar,0.7884165033913999
+33,consulta ordem de cambio ,ordem,0.7271692181487768
+0,fechamento de cambio pj ,fechamento,0.8789605845798443
+53,COMO REIMPRIMIR CONTRATO DE CAMBIO PRONTO PJ,reimprimir,0.6141952722648046
+16,recebimento de cambio,recebimento,0.8906342215536202
+63,negociar taxa de cambio,taxa,0.7661282300128595
+14,cliente não consgeue operar com cambio,operar,0.705094845951159
+14,cliente não consegue operar com cambio ocorrendo mensagem excede limite diário,operar,0.3980273212130835
+27,aumentar limite cambio,limite,0.7560704581385116
+53,COMO IMPRIMIR CONTRATO DE CAMBIO PRONTO,pronto,0.6340854228227237
+75,como falar na central na area de cambio?,falar,0.6901151173790945
+96,como cancelar contrato de cambio,contrato,0.786194532334628
+92,liquidacao de ordem cambio,ordem,0.7549044774968605
+11,Como fazer alteração do limite operacional de cambio do cliente?,operacional,0.5788430230586489
+11,como fazer cambio por procuração ?,procuracao,0.7861764162235255
+19,como cancelar operação de cambio?,operacao,0.7558559739526333
+72,comprovante de operação de cambio,operacao,0.7523101552209502
+40,receber cambio?,receber,0.8998576571396256
+53,REIMPRESSAO DE CONTRATO DE CAMBIO PRONTO PJ,reimpressao,0.6291576163413662
+21,remessa de cambio,remessa,0.8813863044934979
+84,como realizar cambio,realizar,0.8813863044934979
+44,Como enviar ordem de cambio por procuração ?,procuracao,0.6146846374511948
+72,comprovante de swift de cambio,swift,0.6963549462867313
+21,remessa de cambio do exterior para o Brasil,remessa,0.6828190130360425
+21,como criar uma remessa de cambio,remessa,0.7765154918064846
+52,como fechar uma ordem de pagamento de cambio?,pagamento,0.6752270059311987
+21,criar remessa de cambio,remessa,0.7765154918064846
+0,fechamento de cambio  PF?,fechamento,0.8789605845798443
+96,segunda via de contrato de cambio,via,0.5688006951833721
+14,COMO ABRIR UMA CONTA PARA OPERAR COM CAMBIO,operar,0.641491353844811
+63,saber a taxa de cambio,taxa,0.6764013486658025
+96,segunda via de contrato de cambio,via,0.5688006951833721
+91,COMO CONSULTAR SE TEVE PROBLEMA COM CAMBIO ,problema,0.8420071122886271
+0,FECHAMENTO DE CAMBIO INTERNET,internet,0.7794259901269935
+48,liquidação de cambio pf,liquidacao,0.9132540297778342
+27,recepcionar cambio,recepcionar,0.9439709931074011
+33,consulta ordem de cambio,ordem,0.7271692181487768
+95,envio de cambio,envio,0.8865093783945432
+96,SEGUNDA VIA DE CONTRATO DE CAMBIO,via,0.5688006951833721
+21,COMO FAZER DEVOLUÇÃO DE REMESSA DE CAMBIO?,remessa,0.6674971195440713
+27,iof operação de cambio,operacao,0.7523101552209502
+21,REMESSA DE CAMBIO NÃO DEVOLVIDA PRA CONTA,remessa,0.5732222621561364
+96,SEGUNDA VIA DE CONTRATO DE CAMBIO,via,0.5688006951833721
+27,ORDEM DE CAMBIO NEGADA E NÃO DEVOLVIDA PRA CONTA,pra,0.5308756595907809
+76,cambio recebido,recebido,0.929880665134878
+52,consilta ordem de cambio,ordem,0.8265849984592178
+91,consultar liquidação de cambio ,liquidacao,0.7742248213076222
+72,cambio comprovante ,comprovante,0.9234011360420796
+44,enviar cambio,enviar,0.9179837093950798
+91,como faço para consultar se o cliente pode fazer cambio,pode,0.5703746016158711
+11,empresa está liberada para fazer cambio,liberada,0.7558470955874783
+14,como operar cambio,operar,0.9132540297778342
+40,como receber cambio?,receber,0.8998576571396256
+40,como receber cambio do exterior?,receber,0.6940398117326737
+95,envio de cambio,envio,0.8865093783945432
+40,o que é necessário para receber uma ordem de cambio do exterior?,receber,0.5648392958002003
+27,perfil sistema ar cambio,sistema,0.7032483820604423
+11,como fazer operação de cambio cliente empresas/,operacao,0.653685548847284
+0,fechamento cambio,fechamento,0.8789605845798443
+95,envio de ordem de cambio,ordem,0.7012959241907155
+21,Remessa cambio frança,remessa,0.8038061539815305
+0,fechamento de cambio ,fechamento,0.8789605845798443
+0,fechamento de cambio,fechamento,0.8789605845798443
+40,receber cambio,receber,0.8998576571396256
+40,Como receber um cambio?,receber,0.8998576571396256
+40,Como receber um cambio?,receber,0.8998576571396256
+63,valor taxa de cambio?,valor,0.720884763410224
+43,FECHAMENTO DE OPERAÇÃO DE CAMBIO PESSOA JURIDICA,pessoa,0.5302611134173111
+27,book de natureza cambio,natureza,0.7032483820604423
+43,FECHAMENTO DE CAMBIO PESSOA JURIDICA ,pessoa,0.5959591677600691
+21,como consultar que uma remessa de cambio foi devolvida para sua origem ,remessa,0.5876923330253183
+14,onde vejo o limite para o cliente operar com cambio?,vejo,0.5638025761908084
+33,consulta remessa de cambio,remessa,0.6979404188895797
+27,como que faz um cambio para um cliente ,faz,0.822703765926481
+91,como consultar devolução de cambio ,devolucao,0.789494647935838
+21,como consultar uma devolução de remessa de cambio,remessa,0.6695244621068936
+27,cliente na agencia para realizar cambio pagamento para pamento de escola,realizar,0.49850747588914185
+27,compra e recepção de cambio pf,recepcao,0.6842501053323852
+48,recepção de cambio pf,recepcao,0.9382962360518278
+24,abertura de conta pj com utilização de cambio,utilizacao,0.7024131321767354
+52,devolução de ordem de pagamento de cambio para o exterior ,pagamento,0.5607362103724656
+40,como receber cambio PJ,receber,0.8998576571396256
+52,ordem pagamento cambio,pagamento,0.6895522269140191
+0,fechamento operacao cambio pj,operacao,0.6624351274472177
+27,como fechar cambio pj,fechar,0.9264724269720608
+33,consulta fechamento de cambio,fechamento,0.7013253383466529
+29,como consultar ordem de pagamento de cambio,pagamento,0.5987908443705485
+76,consultar cambio recebido,recebido,0.8096265935806733
+33,consulta de cambio?,consulta,0.8998576571396256
+16,recebimento de cambio com procuração,recebimento,0.7312038599069294
+16,recebimento cambio,recebimento,0.8906342215536202
+27,dúvidas relacionadas ao teor da procuração para liquidação de cambio,teor,0.47588350369465304
+52,ordem de pagamento de cambio,pagamento,0.6895522269140191
+48,operação de cambio ,operacao,0.8801631098453844
+52,ordem de cambio,ordem,0.8581062204717506
+40,receber ordem de cambio,receber,0.7271692181487768
+52,LOCALIZAR ORDEM DE PAGAMENTO CAMBIO,pagamento,0.6591891596595302
+16,recebimento ordem de cambio,recebimento,0.709116199692187
+10,como contratar operação de cambio,operacao,0.712010249276629
+10,é possível contratar operação de cambio pelo app,possivel,0.6046804457445732
+27,taxas para cambio,taxas,0.9439709931074011
+91,como consultar cambio,consultar,0.8379887233955923
+91,consultar ordens de cambio,ordens,0.8420071122886271
+16,recebimento de cambio,recebimento,0.8906342215536202
+16,recebimento de cambio,recebimento,0.8906342215536202
+16,recebimento ordem de cambio,recebimento,0.709116199692187
+0,fechamento de cambio,fechamento,0.8789605845798443
+27,como cadastarar cambio,cambio,0.9439709931074011
+84,como realizar um cambio,realizar,0.8813863044934979
+88,cadastro de cambio,cambio,0.8892289325500996
+48,operação de cambio,operacao,0.8801631098453844
+52,como liberar uma ordem de cambio?,ordem,0.7921600618308352
+0,fone para fechamento de cambio juridico,juridico,0.6496622749925973
+29,como consultar uma ordem de cambio enviada?,ordem,0.7247482542017513
+0,Fechamento operação de cambio ,operacao,0.6624351274472177
+0,cambio fechamento,fechamento,0.8789605845798443
+0,cambio fechamento ,fechamento,0.8789605845798443
+27,cambio moeda,moeda,0.9439709931074011
+52,como liberar uma ordem de cambio?,ordem,0.7921600618308352
+27,COMO VERIFICAR SE O CLIENTE POSSUI ALGUM IMPEDITIVO PARA RECEBER CAMBIO,verificar,0.47290263841751395
+10,como contratar cambio para cliente pessoa fisica?,pessoa,0.6317243583206088
+27,como cancelar venda de cambio?,venda,0.86051365611154
+29,COMO CONSULTAR A LIBERACAO DE ORDEM DE PAGAMENTO DE CAMBIO,pagamento,0.6134947063829607
+27,canal bancario para cambio,canal,0.750156808888882
+63,TAXA DE CAMBIO ,taxa,0.9090129844486822
+27,COMO FECHAR CAMBIO PARA CLIENTE PESSOA FISICA?,pessoa,0.5691272736601403
+52,EM QUANTO TEMPO ORDEM DE PAGAMENTO DE CAMBIO CREDITA,tempo,0.5568770561673054
+27,tarifa de cambio,tarifa,0.9132540297778342
+48,liquidar operacao de cambio,operacao,0.7597540600393848
+16,recebimento de cambio,recebimento,0.8906342215536202
+17,COMO CREDITAR UMA ORDEM DE PAGAMENTO DE CAMBIO,pagamento,0.7285742922844144
+75,CENTRAL DE CAMBIO,central,0.896612362082117
+16,recebimento de cambio fechamento,recebimento,0.6826039955902535
+16,recebimento cambio,recebimento,0.8906342215536202
+16,cambio recebimento,recebimento,0.8906342215536202
+52,devolução de ordem de pagamento cambio do exterior ,pagamento,0.5607362103724656
+27,tabela de tarifa cambio,tarifa,0.7282925604380929
+95,ENVIO DE CAMBIO EXTERIOR,exterior,0.7149828064769294
+87,tarifa de servicos de cambio,tarifa,0.717411628468602
+87,servicos de cambio,servicos,0.929880665134878
+40,receber cambio,receber,0.8998576571396256
+52,qual prazo para liquidar uma ordem de cambio ,prazo,0.6224538271253429
+27,quanto a ordem de cambio fica disponivel PARA liquidação ,quanto,0.5262439863107656
+52,ordem de pagamento cambio,pagamento,0.6895522269140191
+52,ordem de pagamento cambio,pagamento,0.6895522269140191
+75,CENTRAL DE ATENDIMENTO DE CAMBIO,central,0.6994501597761954
+52,cliente deseja devolver ordem de pagamento de cambio que recebeu,recebeu,0.4963775037137361
+95,envio para envio de cambio,envio,0.9675927428008262
+16,envio de email de recebimento de cambio,recebimento,0.6549336923258945
+27,como repatriar uma operação de cambio?,repatriar,0.8051698105204186
+40,como receber ordem de cambio,receber,0.7271692181487768
+0,fechamento de cambio,fechamento,0.8789605845798443
+27,como solicitar aument ode limite de cambio ,solicitar,0.5716644375452513
+11,Como fazer alteração do limite operacional de cambio do cliente?,operacional,0.5788430230586489
+40,como receber cambio,receber,0.8998576571396256
+27,Como liberar cambio em conta corrente?,liberar,0.6696858251840812
+14,como cadastrar cliente para cambio,cliente,0.7530368209584614
+29,Como consultar ordem de pagamento de cambio?,pagamento,0.5987908443705485
+27,Como verificar motivo da não liberação de cambio?,verificar,0.6277137851438153
+29,como consultar ordem de cambio?,ordem,0.6738261750001221
+11,como fazer um cambio ,fazer,0.841881918602743
+21,envio de remessa de cambio ,remessa,0.6710373083048633
+21,envio de remessa de cambio ,remessa,0.6710373083048633
+0,fechamento de cambio ,fechamento,0.8789605845798443
+33,consulta cambio,consulta,0.8998576571396256
+96,segunda via cambio,via,0.6884624546281323
+95,onde envio KYC cambio?,onde,0.6735482626831127
+27,tel mesa de cambio,tel,0.7005990737911988
+27,como alterar limite de cambio,limite,0.7128907501450886
+11,fazer transferencia de cambio,transferencia,0.8065128866520566
+14,para cadastrar o cliente pessoa juridica para operar com cambio ,pessoa,0.4868721103407972
+48,liquidação de cambio,liquidacao,0.9132540297778342
+27,ESTORNO IO CAMBIO,estorno,0.8935466225294024
+27,ESTORNO IOF CAMBIO,iof,0.7337905229257052
+76,COMO AUMENTAR VALOR PARA FECHAMENTO DE CAMBIO RECEBIDO PELOS CANAIS,valor,0.5063314015788274
+49,cartao de cambio,cartao,0.7830772644626666
+27,COMO ESTORNAR IOF CAMBIO,iof,0.7075800986781793
+52,ordem de cambio,ordem,0.8581062204717506
+16,recebimento de cambio,recebimento,0.8906342215536202
+27,custo de emissao de cambio,emissao,0.7450582068486353
+21,remessa de cambio ,remessa,0.8813863044934979
+48,liquidação de cambio por procuração,procuracao,0.6926547290460472
+48,liquidação de cambio por procuração,procuracao,0.6926547290460472
+44,Quais são os canais para o cliente enviar uma remessa de cambio?,remessa,0.5254437994916002
+27,operação de cambio especie dolar,operacao,0.6398863282151741
+27,qual o codigo da operação para cambio venda dolar?,venda,0.5324377015679123
+27,FOMULARIO DE CAMBIO,fomulario,0.9439709931074011
+74,valor de tarifas cobradas em operações de cambio,valor,0.5484034405210859
+27,termo de adesão para assinatura de contratos de cambio,termo,0.5320138584767298
+74,valor de tarifas cobradas em operações de cambio em conta juridica,valor,0.48239725356135565
+44,enviar ordem de cambio,ordem,0.7651638113614759
+95,ENVIO DE CAMBIO PELA CONTA PJ,envio,0.7146854305492428
+27,ENCAMINHAR CAMBIO PELA PJ,encaminhar,0.9337494478684412
+44,ENVIAR CAMBIO PELA PJ,enviar,0.9179837093950798
+48,ENCAMINHAR OPERACAO DE CAMBIO PELA PJ,operacao,0.7779938502953363
+95,ENVIO DE CAMBIO,envio,0.8865093783945432
+52,cadastrar ordem de cambio,ordem,0.7271692181487768
+16,recebimento de cambio,recebimento,0.8906342215536202
+63,taxa de cambio,taxa,0.9090129844486822
+16,recebimento ordem de cambio?,recebimento,0.709116199692187
+27,passo a passo envio de cambio pelo app,passo,0.8387168147577022
+0,Fechamento de cambio ,fechamento,0.8789605845798443
+27,qual é a tarifa cobrada em operações de cambio,tarifa,0.5996164350865058
+27,cambio pelo app,cambio,0.9337494478684412
+27,cambio programado,programado,0.9439709931074011
+21,como consultar uma remessa de cambio devolvida para o pais de origem,remessa,0.5416452234688414
+52,ENVIO DE ORDEM DE PAGAMENTO CAMBIO,pagamento,0.5802624050839365
+33,consulta liquidação de cambio,liquidacao,0.699125752453519
+91,consultar cambio,consultar,0.8379887233955923
+27,Operação de cambio de cheques?,operacao,0.8051698105204186
+33,CONSULTA DE CAMBIO,consulta,0.8998576571396256
+0,fechamento de cambio ,fechamento,0.8789605845798443
+27,conta com operação de cambio,operacao,0.7031532667219338
+76,devolução de cambio recebido,recebido,0.702533788408777
+29,como consultar ordem de remessa de cambio devolvida,remessa,0.6214236208776355
+91,como consultar cambio devolvisd,devolvisd,0.8420071122886271
+10,como contratar cambio pelo mobile?,mobile,0.842531427692391
+95,qual a tarifa de envio de cambio vg?,tarifa,0.7199208220934658
+21,envio de remessa de cambio,remessa,0.6710373083048633
+95,envio de cambio natureza da operação,operacao,0.6898056489183455
+0,consultar fechamento de cambio,fechamento,0.7091319119282439
+0,consultar fechamento de cambio,fechamento,0.7091319119282439
+16,ordem de cambio recebimento de aluguel ,recebimento,0.6491643932889276
+63,qual o valor da taxa de emissão de cambio?,valor,0.6145947673888534
+63,qual a taxa de cambio ,taxa,0.9090129844486822
+63,qual taxa e cobrada para sacar cambio no chile,taxa,0.5356906092296599
+27,mesa de cambio pf,mesa,0.9264724269720608
+14,conheça seu cliente cambio,conheca,0.8460073769011678
+0,fechamento cambio,fechamento,0.8789605845798443
+0,fechamento cambio,fechamento,0.8789605845798443
+27,email do cambio,email,0.929880665134878
+27,Status de cambio solicitado cancelamento,status,0.6806803661019772
+27,Status de cambio solicitado cancelamento,status,0.6806803661019772
+95,Como verificar status de envio de solictação cambio para areas,verificar,0.5108127469553532
+27,Como identicar cambio ,identicar,0.9439709931074011
+40,como receber cambio?,receber,0.8998576571396256
+11,como fazer cambio?,fazer,0.841881918602743
+75,contato cambio,contato,0.920589046456914
+75,central de cambio para funcionarios,funcionarios,0.745746139834898
+0,fechamento de cambio,fechamento,0.8789605845798443
+48,TRANSAÇÃO DE CAMBIO,transacao,0.9382962360518278
+11,como fazer cambio?,fazer,0.841881918602743
+11,como fazer cambio,fazer,0.841881918602743
+27,cambio enviado ao exterior quando a outra parte recebera valor,valor,0.45019136900152174
+85,Como abrir chamado para cambio ?,chamado,0.6978644233481326
+51,como abrir um chamado para um cambio que nao chegou.?,nao,0.6145777179784728
+27,cambio liquidar,liquidar,0.9264724269720608
+40,receber uma ordem de cambio,receber,0.7271692181487768
+27,como efetivar cambio,efetivar,0.929880665134878
+27,mesa cambio pessoa fisica,pessoa,0.6046419644980664
+16,como consultar recebimento de cambio?,recebimento,0.7302205929757897
+51,como abrir um chamado para um cambio que nao chegou?,nao,0.6145777179784728
+48,como cadastrar pj para operacao de cambio ,operacao,0.6996583626918585
+48,qual procedimento para operacao de cambio,procedimento,0.759754060039385
+21,remessa de cambio para o exterior,remessa,0.7221821374562468
+27,mesa de cambio pj ,mesa,0.9264724269720608
+14,como cadastrar cliente pj para operar com cambio?,operar,0.6332749983148347
+21,naturezas de remessa de cambio,remessa,0.8038061539815305
+14,cadastrar cliente pj para operar com cambio,operar,0.6332749983148347
+72,Como solicitar comprovante de cambio?,solicitar,0.7474383381692008
+72,como solicitar comprovante de cambio,solicitar,0.7474383381692008
+27,?,,
+27,??,,
+27,?,,
+27,??,,
+27,?,,
+27,??,,
+27,?,,
+27,??,,
+27,?,,
+27,??,,
+27,?,,
+27,??,,
+27,?,,
+27,??,,
+27,kkkk,kkkk,1.0
+27,kkkk,kkkk,1.0
+27,kkkk,kkkk,1.0
+27,kkkk,kkkk,1.0
+27,kkkk,kkkk,1.0
+27,kkkk,kkkk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+70,oooooooo,oooooooo,1.0
+70,oooooooo,oooooooo,1.0
+27,qwqe'qwf,qwqe,0.7071067811865476
+70,oooooooo,oooooooo,1.0
+70,oooooooo,oooooooo,1.0
+70,oooooooo,oooooooo,1.0
+27,o86m,,
+27,kkkkkkkk,kkkkkkkk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+37,jsfasfk,jsfasfk,1.0
+27,jsfa,jsfa,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+20,hey,hey,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+27,oiii,oiii,1.0
+27,oiii,oiii,1.0
+27,ola,ola,1.0
+27,bom dia,dia,0.7493134551977577
+23,hello,hello,1.0
+23,hello,hello,1.0
+23,hello,hello,1.0
+2,O que é um seguro de vida temporário?,vida,0.9102379909396043
+27,O que é um seguro de vida temporário decrescente?,vida,0.6923799143095842
+27,Quanto custa um seguro de vida?,vida,0.7413388270342608
+10,Posso contratar mais de um seguro de vida ao mesmo tempo?,vida,0.657727281028032
+10,Qualquer pessoa pode contratar um seguro de vida?,vida,0.6389723617087872
+27,O que é beneficiário? ,beneficiario,1.0
+36,É possível alterar o beneficiário?,possivel,0.6465624116162085
+78,O que é sinistro?,sinistro,1.0
+78,Como eu declaro sinistro?,sinistro,0.8522666796200097
+86,Qual a idade limite para a contratação de um seguro de vida?,vida,0.5572124724395382
+2,O que é um seguro de vida?,vida,0.9075456246039275
+27,O que é um seguro de vida inteira resgatável?,vida,0.6763228072309677
+27,Quem pode ser indicado como beneficiario?,ser,0.610395079075774
