@@ -42,7 +42,7 @@ from sklearn.metrics                  import silhouette_samples, silhouette_scor
 
 #importando dados
 
-uri2  = "https://raw.githubusercontent.com/RenatoGalindo/K-means-acur-cia/master/Amostra2.csv"
+uri2  = "https://raw.githubusercontent.com/RenatoGalindo/K-means-acur-cia/master/dataset/Amostra2.csv"
 
 dataNew = pd.read_csv(uri2 ,error_bad_lines=False )
 dataNew.columns = map(str.lower, dataNew.columns)
