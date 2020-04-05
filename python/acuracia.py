@@ -116,6 +116,15 @@ vectorizer = TfidfVectorizer()
 
 X = vectorizer.fit_transform(corpus)
 
+_clusters = 100
+model = KMeans(
+        n_clusters=_clusters,
+        init="k-means++",
+        max_iter=100,
+        n_init=1
+    )
+model.fit(X)
+
 idf_values = dict(zip(vectorizer.get_feature_names(),X.toarray() ))
 
 tf_idf = pd.DataFrame(data = X.toarray(), columns=vectorizer.get_feature_names())
