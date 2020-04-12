@@ -86,7 +86,7 @@ def processCorpus(corpus, language):
         corpus[index] = re.sub("\S*@\S*\s?"," ", corpus[index]) # removes emails and mentions (words with @)
         corpus[index] = re.sub(r'http\S+', '', corpus[index])   # removes URLs with http
         corpus[index] = re.sub(r'www\S+', '', corpus[index])    # removes URLs with www
-       
+        corpus[index] = re.sub('[0-9]|,|\.|/|$|\(|\)|-|\+|:|•', '', corpus[index])    #remove acentos
        
         listOfTokens = word_tokenize(corpus[index])
       
@@ -96,6 +96,8 @@ def processCorpus(corpus, language):
         
                 
         listOfTokens = removeWords(listOfTokens, twoLetterWord)
+        
+#listOfTokens = applyStemming(listOfTokens, param_stemmer)
                
         
         corpus[index]   = " ".join(listOfTokens)
@@ -116,7 +118,7 @@ vectorizer = TfidfVectorizer()
 
 X = vectorizer.fit_transform(corpus)
 
-_clusters = 100
+_clusters = 20
 model = KMeans(
         n_clusters=_clusters,
         init="k-means++",
@@ -158,7 +160,7 @@ datacsv = pd.DataFrame(lista_palavra, columns=['linha','palavra_chave','score'])
 datacsv.to_csv('C:/Users/Lilia/Documents/palavra.csv', index=False)     
 
 dataNewCsv = {
-'Pergunta':dataNew['pergunta'],
+'Pergunta':corpus,
 
 }
 
