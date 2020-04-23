@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  7 03:49:41 2020
-
-@author: Renato Galindo Aragão
-"""
-
 
 import json
 # Data Structures
